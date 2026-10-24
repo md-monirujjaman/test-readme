@@ -15,8 +15,8 @@
 <img src="assets/title-about.svg" width="100%" alt="01 About â€” Hello, I'm Monirujjaman.">
 <img src="assets/about-intro.svg" width="100%" alt="About MD Monirujjaman: Full-Stack Developer from Khulna, Bangladesh, working with OrmiTech IT and building practical web applications with modern JavaScript and TypeScript technologies.">
 
-<img src="assets/title-recognition.svg" width="100%" alt="02 Highlights â€” Built in public.">
-<img src="assets/achievement-motif-v2.svg" width="100%" alt="Highlights: 34 public repositories, OrmiTech IT projects, SkillSwap, StudyNook, responsive interfaces and full-stack applications.">
+<img src="assets/title-recognition.svg" width="100%" alt="02 Tech Stack â€” The tools I build with.">
+<img src="assets/tech-constellation-v2.svg" width="100%" alt="Full-stack web development stack: JavaScript, TypeScript, HTML, CSS, Python and SQL with React, Node.js, Express, MongoDB, PostgreSQL, Git and GitHub.">
 
 <img src="assets/title-work.svg" width="100%" alt="03 Selected work â€” Products, not assignments.">
 
@@ -45,20 +45,17 @@
   <a href="https://github.com/md-monirujjaman/studyNook-server"><img src="https://img.shields.io/badge/Server-StudyNook-e10032?style=for-the-badge&labelColor=19000a&logoColor=fff4f6&logo=github" alt="StudyNook server repository"></a>
 </p>
 
-<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit â€” The tools I reach for.">
-<img src="assets/tech-constellation-v2.svg" width="100%" alt="Full-stack web development stack: JavaScript, TypeScript, HTML, CSS, Python and SQL with React, Node.js, Express, MongoDB, PostgreSQL, Git and GitHub.">
-
-<img src="assets/title-commits.svg" width="100%" alt="05 Commit log â€” A year of building.">
+<img src="assets/title-commits.svg" width="100%" alt="04 Commit log â€” A year of building.">
 <img src="assets/contribution-snake.svg" width="100%" alt="Animated contribution activity for md-monirujjaman.">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-monirujjaman&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=19000a&title_color=e10032&text_color=e5aab5&icon_color=e10032&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for md-monirujjaman">
 </p>
 
-<img src="assets/title-certifications.svg" width="100%" alt="06 Learning â€” Always improving.">
+<img src="assets/title-certifications.svg" width="100%" alt="05 Learning â€” Always improving.">
 <a href="https://github.com/md-monirujjaman"><img src="assets/certifications.svg" width="100%" alt="Learning and technology areas: TypeScript, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Python, C, Git and GitHub."></a>
 
-<img src="assets/title-connect.svg" width="100%" alt="07 Connect â€” Let's build something worth explaining.">
+<img src="assets/title-connect.svg" width="100%" alt="06 Connect â€” Let's build something worth explaining.">
 
 <p align="center">
   <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Website-monirujjaman.pro.bd-7a001c?style=for-the-badge&labelColor=19000a&logoColor=fff4f6&logo=googlechrome" alt="Portfolio website"></a>

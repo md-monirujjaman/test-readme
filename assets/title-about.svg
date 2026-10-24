@@ -1,13 +1,13 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="01 About: Hello, I&#x27;m Monirujjaman.">
   <defs>
     <linearGradient id="ta-line" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
-      <stop offset="0" stop-color="#e10032"/><stop offset=".6" stop-color="#7a001c"/><stop offset="1" stop-color="#7a001c" stop-opacity="0"/>
+      <stop offset="0" stop-color="#00abf0"/><stop offset=".6" stop-color="#123b63"/><stop offset="1" stop-color="#123b63" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="ta-sheen" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="0" y2="0">
-      <stop offset="0" stop-color="#ff6b88"/><stop offset=".5" stop-color="#fff4f6"/><stop offset="1" stop-color="#ff6b88"/>
+      <stop offset="0" stop-color="#7dd3fc"/><stop offset=".5" stop-color="#effaff"/><stop offset="1" stop-color="#7dd3fc"/>
       <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1500 0;1500 0" keyTimes="0;.4;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
     </linearGradient>
-    <radialGradient id="ta-pulse"><stop offset="0" stop-color="#fff4f6"/><stop offset=".5" stop-color="#ff6b88" stop-opacity=".6"/><stop offset="1" stop-color="#e10032" stop-opacity="0"/></radialGradient>
+    <radialGradient id="ta-pulse"><stop offset="0" stop-color="#effaff"/><stop offset=".5" stop-color="#7dd3fc" stop-opacity=".6"/><stop offset="1" stop-color="#00abf0" stop-opacity="0"/></radialGradient>
   </defs>
   <style>
     .ta-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
@@ -21,13 +21,13 @@
     @media (prefers-reduced-motion: reduce) { .ta-in { animation: none; } .ta-draw { animation: none; stroke-dashoffset: 0; } }
   </style>
   <g class="ta-in">
-    <text class="ta-mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#e10032"><tspan fill="#ff6b88">01</tspan>   ABOUT</text>
+    <text class="ta-mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#00abf0"><tspan fill="#7dd3fc">01</tspan>   ABOUT</text>
   </g>
   <g class="ta-in ta-d2">
-    <text class="ta-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#fff4f6">Hello, I&#x27;m <tspan font-style="italic" fill="url(#ta-sheen)">Monirujjaman.</tspan></text>
+    <text class="ta-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#effaff">Hello, I&#x27;m <tspan font-style="italic" fill="url(#ta-sheen)">Monirujjaman.</tspan></text>
   </g>
   <g class="ta-in ta-d3">
-    <text class="ta-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#e5aab5">WHO I AM</text>
+    <text class="ta-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#b9d9ee">WHO I AM</text>
   </g>
   <path class="ta-draw" d="M40 106 H1160" stroke="url(#ta-line)" stroke-width="1"/>
   <circle cx="40" cy="106" r="7" fill="url(#ta-pulse)" opacity="0">

@@ -2,20 +2,20 @@
   <title id="p2-t">OrmiTech Admin: UPI &amp; card payments on a strict processing > success | failed state machine.</title>
   <defs>
     <linearGradient id="p2-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#19000a"/><stop offset="1" stop-color="#100007"/>
+      <stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#050b14"/>
     </linearGradient>
     <radialGradient id="p2-glow" cx="82%" cy="30%" r="55%">
-      <stop offset="0" stop-color="#7a001c" stop-opacity=".7"/><stop offset="1" stop-color="#3d0010" stop-opacity="0"/>
+      <stop offset="0" stop-color="#123b63" stop-opacity=".7"/><stop offset="1" stop-color="#0b2742" stop-opacity="0"/>
     </radialGradient>
     <pattern id="p2-grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#e10032" stroke-opacity=".07"/>
+      <path d="M28 0H0V28" fill="none" stroke="#00abf0" stroke-opacity=".07"/>
     </pattern>
     <filter id="p2-glowf" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <clipPath id="p2-clip"><rect width="1200" height="370" rx="18"/></clipPath>
     <linearGradient id="p2-trace" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#fff4f6"/><stop offset=".45" stop-color="#ff6b88"/><stop offset="1" stop-color="#e10032" stop-opacity="0"/>
+      <stop offset="0" stop-color="#effaff"/><stop offset=".45" stop-color="#7dd3fc"/><stop offset="1" stop-color="#00abf0" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <style>
@@ -39,35 +39,35 @@
     <rect x="720" width="480" height="370" fill="url(#p2-grid)"/>
     <rect width="1200" height="370" fill="url(#p2-glow)"/>
     <g class="p2-in p2-d1">
-      <text class="p2-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#e10032">02  -  FULL-STACK  -  FINTECH  -  2026</text>
-      <text class="p2-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#fff4f6">OrmiTech Admin</text>
-      <text class="p2-sans" x="56" y="166" font-size="17" fill="#e5aab5">UPI &amp; card payments on a strict processing > success | failed state machine.</text>
-      <text class="p2-mono" x="56" y="200" font-size="12.5" fill="#ff6b88"><tspan fill="#e10032">BUILT â€º</tspan> merchant APIs + hosted checkout; Docker cut setup 70%, latency 40%</text>
-      <line class="p2-draw" x1="56" y1="226" x2="680" y2="226" stroke="#e10032" stroke-opacity=".3"/>
-    <g transform="translate(56 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#fff4f6">1,000+</text><text class="p2-sans" y="24" font-size="12.5" fill="#e5aab5">transactions processed</text></g>
-    <g transform="translate(261 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#fff4f6">99.8%</text><text class="p2-sans" y="24" font-size="12.5" fill="#e5aab5">uptime</text></g>
-    <g transform="translate(466 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#fff4f6">3Ã—</text><text class="p2-sans" y="24" font-size="12.5" fill="#e5aab5">throughput under load</text></g>
-      <g class="p2-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="70" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p2-mono" x="91" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Node.js</text></g><g class="p2-chip" style="animation-delay:1.12s"><rect x="134" y="314" width="70" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p2-mono" x="169" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Express</text></g><g class="p2-chip" style="animation-delay:1.24s"><rect x="212" y="314" width="92" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p2-mono" x="258" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">PostgreSQL</text></g><g class="p2-chip" style="animation-delay:1.36s"><rect x="312" y="314" width="55" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p2-mono" x="339" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">React</text></g><g class="p2-chip" style="animation-delay:1.48s"><rect x="375" y="314" width="62" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p2-mono" x="406" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Docker</text></g>
+      <text class="p2-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00abf0">02  -  FULL-STACK  -  FINTECH  -  2026</text>
+      <text class="p2-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#effaff">OrmiTech Admin</text>
+      <text class="p2-sans" x="56" y="166" font-size="17" fill="#b9d9ee">UPI &amp; card payments on a strict processing > success | failed state machine.</text>
+      <text class="p2-mono" x="56" y="200" font-size="12.5" fill="#7dd3fc"><tspan fill="#00abf0">BUILT â€º</tspan> merchant APIs + hosted checkout; Docker cut setup 70%, latency 40%</text>
+      <line class="p2-draw" x1="56" y1="226" x2="680" y2="226" stroke="#00abf0" stroke-opacity=".3"/>
+    <g transform="translate(56 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#effaff">1,000+</text><text class="p2-sans" y="24" font-size="12.5" fill="#b9d9ee">transactions processed</text></g>
+    <g transform="translate(261 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#effaff">99.8%</text><text class="p2-sans" y="24" font-size="12.5" fill="#b9d9ee">uptime</text></g>
+    <g transform="translate(466 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#effaff">3Ã—</text><text class="p2-sans" y="24" font-size="12.5" fill="#b9d9ee">throughput under load</text></g>
+      <g class="p2-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="70" height="26" rx="13" fill="#0a2035" stroke="#00abf0" stroke-opacity=".35"/><text class="p2-mono" x="91" y="331" text-anchor="middle" font-size="11.5" fill="#7dd3fc">Node.js</text></g><g class="p2-chip" style="animation-delay:1.12s"><rect x="134" y="314" width="70" height="26" rx="13" fill="#0a2035" stroke="#00abf0" stroke-opacity=".35"/><text class="p2-mono" x="169" y="331" text-anchor="middle" font-size="11.5" fill="#7dd3fc">Express</text></g><g class="p2-chip" style="animation-delay:1.24s"><rect x="212" y="314" width="92" height="26" rx="13" fill="#0a2035" stroke="#00abf0" stroke-opacity=".35"/><text class="p2-mono" x="258" y="331" text-anchor="middle" font-size="11.5" fill="#7dd3fc">PostgreSQL</text></g><g class="p2-chip" style="animation-delay:1.36s"><rect x="312" y="314" width="55" height="26" rx="13" fill="#0a2035" stroke="#00abf0" stroke-opacity=".35"/><text class="p2-mono" x="339" y="331" text-anchor="middle" font-size="11.5" fill="#7dd3fc">React</text></g><g class="p2-chip" style="animation-delay:1.48s"><rect x="375" y="314" width="62" height="26" rx="13" fill="#0a2035" stroke="#00abf0" stroke-opacity=".35"/><text class="p2-mono" x="406" y="331" text-anchor="middle" font-size="11.5" fill="#7dd3fc">Docker</text></g>
     </g>
     <g class="p2-in p2-d2"><g transform="translate(0 35)">
       <g transform="translate(760 40)" class="p2-mono" font-size="13" text-anchor="middle">
-        <text x="12" y="20" text-anchor="start" font-size="10.5" letter-spacing="2.4" fill="#e5aab5">UPI  -  CARD  -  HOSTED CHECKOUT</text>
-        <path d="M12 120 H70" stroke="#e10032" stroke-opacity=".5"/>
-        <path class="p2-draw" d="M190 120 C 240 120, 250 64, 300 64" fill="none" stroke="#ff6b88" stroke-width="1.5"/>
-        <path d="M190 120 C 240 120, 250 176, 300 176" fill="none" stroke="#e10032" stroke-opacity=".45" stroke-dasharray="4 6"/>
-        <rect x="70" y="98" width="120" height="44" rx="22" fill="#28000b" stroke="#e10032" stroke-opacity=".5"/>
-        <text x="130" y="125" fill="#fff4f6">processing</text>
-        <rect x="300" y="42" width="116" height="44" rx="22" fill="#3d0010" stroke="#ff6b88"/>
-        <text x="358" y="69" fill="#fff4f6">success</text>
-        <rect x="300" y="154" width="116" height="44" rx="22" fill="#19000a" stroke="#e10032" stroke-opacity=".4"/>
-        <text x="358" y="181" fill="#e5aab5">failed</text>
-        <circle r="4.5" fill="#fff4f6" filter="url(#p2-glowf)">
+        <text x="12" y="20" text-anchor="start" font-size="10.5" letter-spacing="2.4" fill="#b9d9ee">UPI  -  CARD  -  HOSTED CHECKOUT</text>
+        <path d="M12 120 H70" stroke="#00abf0" stroke-opacity=".5"/>
+        <path class="p2-draw" d="M190 120 C 240 120, 250 64, 300 64" fill="none" stroke="#7dd3fc" stroke-width="1.5"/>
+        <path d="M190 120 C 240 120, 250 176, 300 176" fill="none" stroke="#00abf0" stroke-opacity=".45" stroke-dasharray="4 6"/>
+        <rect x="70" y="98" width="120" height="44" rx="22" fill="#0a2035" stroke="#00abf0" stroke-opacity=".5"/>
+        <text x="130" y="125" fill="#effaff">processing</text>
+        <rect x="300" y="42" width="116" height="44" rx="22" fill="#0b2742" stroke="#7dd3fc"/>
+        <text x="358" y="69" fill="#effaff">success</text>
+        <rect x="300" y="154" width="116" height="44" rx="22" fill="#07111f" stroke="#00abf0" stroke-opacity=".4"/>
+        <text x="358" y="181" fill="#b9d9ee">failed</text>
+        <circle r="4.5" fill="#effaff" filter="url(#p2-glowf)">
           <animateMotion dur="3.6s" repeatCount="indefinite" path="M12 120 H130 C 220 120, 250 64, 358 64" calcMode="spline" keyPoints="0;1" keyTimes="0;1" keySplines=".45 0 .55 1"/>
         </circle>
-        <text x="12" y="236" text-anchor="start" font-size="10.5" letter-spacing="1.5" fill="#e5aab5">merchant API key + secret  -  Luhn validation</text>
+        <text x="12" y="236" text-anchor="start" font-size="10.5" letter-spacing="1.5" fill="#b9d9ee">merchant API key + secret  -  Luhn validation</text>
       </g>
     </g></g>
-    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#e10032" stroke-opacity=".2"/>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#00abf0" stroke-opacity=".2"/>
     <rect class="p2-trace" style="animation-delay:-1.7s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p2-trace)" stroke-width="1.6" stroke-linecap="round"/>
   </g>
 </svg>
