@@ -49,7 +49,7 @@
   </g>
   <g class="hero-photo">
     <circle cx="972" cy="224" r="148" fill="#050b14" stroke="#7dd3fc" stroke-opacity=".5" stroke-width="2"/>
-    <image href="profile-photo.png" x="824" y="76" width="296" height="296" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)"/>
+    <image href="professional_portrait.svg" x="824" y="76" width="296" height="296" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)"/>
   </g>
   <g class="hero-orbit">
     <circle cx="972" cy="66" r="5" fill="#00abf0" class="hero-dot"/>
