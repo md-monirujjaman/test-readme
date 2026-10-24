@@ -4,8 +4,12 @@
 
 <p align="center">
   <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-monirujjaman.pro.bd-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=googlechrome" alt="Portfolio website"></a>
+  <a href="https://www.facebook.com/mdmonirujjaman01"><img src="https://img.shields.io/badge/Facebook-mdmonirujjaman01-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=facebook" alt="Facebook profile"></a>
+  <a href="https://www.linkedin.com/in/mdmonirujjaman12/"><img src="https://img.shields.io/badge/LinkedIn-mdmonirujjaman12-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:contact.mdmonirujjaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-contact.mdmonirujjaman-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=gmail" alt="Email MD Monirujjaman"></a>
   <a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-md--monirujjaman-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="GitHub profile"></a>
   <a href="https://github.com/md-monirujjaman?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="Public repositories"></a>
+  <img src="https://komarev.com/ghpvc/?username=md-monirujjaman&label=Profile%20views&color=302B63&labelColor=0f0c29&style=for-the-badge" alt="Profile views">
 </p>
 
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Monirujjaman.">
@@ -54,6 +58,9 @@
 
 <p align="center">
   <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Website-monirujjaman.pro.bd-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=googlechrome" alt="Portfolio website"></a>
+  <a href="https://www.facebook.com/mdmonirujjaman01"><img src="https://img.shields.io/badge/Facebook-mdmonirujjaman01-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=facebook" alt="Facebook profile"></a>
+  <a href="https://www.linkedin.com/in/mdmonirujjaman12/"><img src="https://img.shields.io/badge/LinkedIn-mdmonirujjaman12-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:contact.mdmonirujjaman@gmail.com"><img src="https://img.shields.io/badge/Gmail-contact.mdmonirujjaman-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=gmail" alt="Email MD Monirujjaman"></a>
   <a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-md--monirujjaman-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="GitHub profile"></a>
 </p>
 

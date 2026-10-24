@@ -39,7 +39,7 @@
     <rect x="720" width="480" height="370" fill="url(#p1-grid)"/>
     <rect width="1200" height="370" fill="url(#p1-glow)"/>
     <g class="p1-in p1-d1">
-      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">01 Â· AI Â· NLP Â· LLM Â· 2026</text>
+      <text class="p1-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">01  -  AI  -  NLP  -  LLM  -  2026</text>
       <text class="p1-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F5F3FF">OrmiTech Web</text>
       <text class="p1-sans" x="56" y="166" font-size="17" fill="#C4C0D8">Turns long, dense policy documents into answers you can check.</text>
       <text class="p1-mono" x="56" y="200" font-size="12.5" fill="#C4B5FD"><tspan fill="#9D8FFF">BUILT â€º</tspan> LLM Q&amp;A + key-info extraction, 10+ doc types, web/extension/mobile/desktop</text>
@@ -68,8 +68,8 @@
         </g>
         <g transform="translate(120 170)">
           <rect width="196" height="54" rx="10" fill="#0f0c29" fill-opacity=".92" stroke="#9D8FFF" stroke-opacity=".35"/>
-          <text class="p1-mono" x="14" y="22" font-size="10.5" fill="#F5F3FF">Q Â· key clauses?</text>
-          <text class="p1-mono" x="14" y="40" font-size="10.5" fill="#C4B5FD">A Â· extracted from source</text>
+          <text class="p1-mono" x="14" y="22" font-size="10.5" fill="#F5F3FF">Q  -  key clauses?</text>
+          <text class="p1-mono" x="14" y="40" font-size="10.5" fill="#C4B5FD">A  -  extracted from source</text>
         </g>
       </g>
     </g></g>

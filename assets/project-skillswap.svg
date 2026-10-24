@@ -39,7 +39,7 @@
     <rect x="720" width="480" height="370" fill="url(#p3-grid)"/>
     <rect width="1200" height="370" fill="url(#p3-glow)"/>
     <g class="p3-in p3-d1">
-      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">03 Â· MYNTRA WEFORSHE HACKERRAMP 2026 Â· TOP 100</text>
+      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">03  -  MYNTRA WEFORSHE HACKERRAMP 2026  -  TOP 100</text>
       <text class="p3-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F5F3FF">SkillSwap<tspan class="p3-serif" font-size="22" font-style="italic" fill="#C4B5FD" dx="14">Myntra Bharat AI</tspan></text>
       <text class="p3-sans" x="56" y="166" font-size="17" fill="#C4C0D8">An explainable AI fashion assistant that understands Hinglish occasions.</text>
       <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#C4B5FD"><tspan fill="#9D8FFF">BUILT â€º</tspan> team entry: rules-first recommender that explains every ranking</text>
@@ -93,8 +93,8 @@
           <text class="p3-mono" x="8" y="18" font-size="9" fill="#C4C0D8">05</text>
           <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F5F3FF">Explain</text>
         </g>
-        <text class="p3-mono" x="1176" y="214" font-size="12" text-anchor="end" fill="#C4B5FD">sangeet â†’ wedding wear Â· affinity 0.85</text>
-        <text class="p3-mono" x="1176" y="240" font-size="10.5" text-anchor="end" letter-spacing="1.5" fill="#C4C0D8">GEMINI OPTIONAL Â· RULES FIRST</text>
+        <text class="p3-mono" x="1176" y="214" font-size="12" text-anchor="end" fill="#C4B5FD">sangeet > wedding wear  -  affinity 0.85</text>
+        <text class="p3-mono" x="1176" y="240" font-size="10.5" text-anchor="end" letter-spacing="1.5" fill="#C4C0D8">GEMINI OPTIONAL  -  RULES FIRST</text>
       </g>
     </g></g>
     <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#9D8FFF" stroke-opacity=".2"/>

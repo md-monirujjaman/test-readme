@@ -27,7 +27,7 @@
     <text class="tt-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F5F3FF">The tools I <tspan font-style="italic" fill="url(#tt-sheen)">reach for.</tspan></text>
   </g>
   <g class="tt-in tt-d3">
-    <text class="tt-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#C4C0D8">LANGUAGES Â· AI Â· WEB Â· DATA Â· INFRA</text>
+    <text class="tt-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#C4C0D8">LANGUAGES  -  AI  -  WEB  -  DATA  -  INFRA</text>
   </g>
   <path class="tt-draw" d="M40 106 H1160" stroke="url(#tt-line)" stroke-width="1"/>
   <circle cx="40" cy="106" r="7" fill="url(#tt-pulse)" opacity="0">

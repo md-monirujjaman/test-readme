@@ -39,7 +39,7 @@
     <rect x="720" width="480" height="370" fill="url(#p4-grid)"/>
     <rect width="1200" height="370" fill="url(#p4-glow)"/>
     <g class="p4-in p4-d1">
-      <text class="p4-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">04 Â· SAAS Â· SECURITY Â· 2026</text>
+      <text class="p4-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">04  -  SAAS  -  SECURITY  -  2026</text>
       <text class="p4-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F5F3FF">StudyNook</text>
       <text class="p4-sans" x="56" y="166" font-size="17" fill="#C4C0D8">Many organisations, one database, no cross-tenant access.</text>
       <text class="p4-mono" x="56" y="200" font-size="12.5" fill="#C4B5FD"><tspan fill="#9D8FFF">BUILT â€º</tspan> tenant_id-scoped middleware, 4-level JWT/RBAC, one-command deploy</text>
@@ -72,7 +72,7 @@
           <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#F5F3FF" transform="skewX(-38) translate(14 0)">tenant_id = 03</text>
         </g>
       </g>
-      <text class="p4-mono" x="1176" y="270" text-anchor="end" font-size="10.5" letter-spacing="1.5" fill="#C4C0D8">WHERE tenant_id = :tenant Â· 4-LEVEL JWT / RBAC</text>
+      <text class="p4-mono" x="1176" y="270" text-anchor="end" font-size="10.5" letter-spacing="1.5" fill="#C4C0D8">WHERE tenant_id = :tenant  -  4-LEVEL JWT / RBAC</text>
     </g></g>
     <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#9D8FFF" stroke-opacity=".2"/>
     <rect class="p4-trace" style="animation-delay:-5.1s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p4-trace)" stroke-width="1.6" stroke-linecap="round"/>

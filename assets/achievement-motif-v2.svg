@@ -1,6 +1,6 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="ach-title ach-desc">
   <title id="ach-title">Recognition</title>
-  <desc id="ach-desc">34 public repositories. OrmiTech IT projects. Khulna, Bangladesh. Full-stack applications, peak rating 1321. Responsive interfaces, rating 1464. Open-source projects. JavaScript and TypeScript development.</desc>
+  <desc id="ach-desc">34 public repositories. OrmiTech IT projects. Khulna, Bangladesh. Full-stack applications, full-stack builds. Responsive interfaces, responsive web work. Open-source projects. JavaScript and TypeScript development.</desc>
 
   <defs>
     <linearGradient id="ach-bg" x1="0" y1="0" x2="0" y2="1">
@@ -73,7 +73,7 @@
     <rect x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="#9D8FFF" stroke-opacity=".38"/>
     <rect class="ach-trace-a" x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
     <rect x="40" y="0" width="300" height="1" fill="url(#ach-hair)"/>
-    <text class="ach-mono" x="36" y="154" font-size="12" letter-spacing="2.6" fill="#9D8FFF">FLIPKART Â· ENGINEERING CHALLENGE</text>
+    <text class="ach-mono" x="36" y="154" font-size="12" letter-spacing="2.6" fill="#9D8FFF">FLIPKART  -  ENGINEERING CHALLENGE</text>
     <text class="ach-serif" x="34" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F5F3FF">National Semi-Finalist</text>
     <text class="ach-sans" x="36" y="230" font-size="14" fill="#C4C0D8">Flipkart GRiD 7.0</text>
   </g></g>
@@ -89,7 +89,7 @@
       <rect x=".5" y=".5" width="475" height="249" rx="15.5" fill="none" stroke="#9D8FFF" stroke-opacity=".3"/>
       <rect class="ach-trace-b" x=".5" y=".5" width="475" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
       <rect x="40" y="0" width="220" height="1" fill="url(#ach-hair)"/>
-      <text class="ach-mono" x="32" y="154" font-size="12" letter-spacing="2.6" fill="#9D8FFF">MYNTRA Â· WEFORSHE HACKERRAMP 2026</text>
+      <text class="ach-mono" x="32" y="154" font-size="12" letter-spacing="2.6" fill="#9D8FFF">MYNTRA  -  WEFORSHE HACKERRAMP 2026</text>
       <text class="ach-serif" x="30" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F5F3FF">Top 100 Team</text>
       <text class="ach-sans" x="32" y="230" font-size="14" fill="#C4C0D8">SkillSwap â€” explainable AI fashion assistant</text>
     </g>
@@ -104,7 +104,7 @@
       <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
       <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">ACADEMICS</text>
       <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">9.10</text>
-      <text y="102">CGPA Â· B.Tech AI &amp; ML</text>
+      <text y="102">CGPA  -  B.Tech Web Development</text>
     </g>
     <g transform="translate(266 300)">
       <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
@@ -116,7 +116,7 @@
       <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
       <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">GEEKSFORGEEKS</text>
       <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">400+</text>
-      <text y="102">score 950 Â· rating 1464</text>
+      <text y="102">score 950  -  responsive web work</text>
     </g>
     <g transform="translate(726 300)">
       <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
@@ -128,7 +128,7 @@
       <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
       <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">HACKERRANK</text>
       <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">5â˜…</text>
-      <text y="102">C Â· Python Â· Java</text>
+      <text y="102">C  -  JavaScript  -  TypeScript</text>
     </g>
   </g>
 </svg>

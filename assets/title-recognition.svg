@@ -27,7 +27,7 @@
     <text class="tr-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F5F3FF">Proof, <tspan font-style="italic" fill="url(#tr-sheen)">on the record.</tspan></text>
   </g>
   <g class="tr-in tr-d3">
-    <text class="tr-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#C4C0D8">HACKATHONS Â· ACADEMICS Â· PROBLEM SOLVING</text>
+    <text class="tr-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#C4C0D8">HACKATHONS  -  ACADEMICS  -  PROBLEM SOLVING</text>
   </g>
   <path class="tr-draw" d="M40 106 H1160" stroke="url(#tr-line)" stroke-width="1"/>
   <circle cx="40" cy="106" r="7" fill="url(#tr-pulse)" opacity="0">

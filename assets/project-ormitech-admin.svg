@@ -1,5 +1,5 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="p2-t">
-  <title id="p2-t">OrmiTech Admin: UPI &amp; card payments on a strict processing â†’ success | failed state machine.</title>
+  <title id="p2-t">OrmiTech Admin: UPI &amp; card payments on a strict processing > success | failed state machine.</title>
   <defs>
     <linearGradient id="p2-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#0b091d"/>
@@ -39,9 +39,9 @@
     <rect x="720" width="480" height="370" fill="url(#p2-grid)"/>
     <rect width="1200" height="370" fill="url(#p2-glow)"/>
     <g class="p2-in p2-d1">
-      <text class="p2-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">02 Â· FULL-STACK Â· FINTECH Â· 2026</text>
+      <text class="p2-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">02  -  FULL-STACK  -  FINTECH  -  2026</text>
       <text class="p2-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F5F3FF">OrmiTech Admin</text>
-      <text class="p2-sans" x="56" y="166" font-size="17" fill="#C4C0D8">UPI &amp; card payments on a strict processing â†’ success | failed state machine.</text>
+      <text class="p2-sans" x="56" y="166" font-size="17" fill="#C4C0D8">UPI &amp; card payments on a strict processing > success | failed state machine.</text>
       <text class="p2-mono" x="56" y="200" font-size="12.5" fill="#C4B5FD"><tspan fill="#9D8FFF">BUILT â€º</tspan> merchant APIs + hosted checkout; Docker cut setup 70%, latency 40%</text>
       <line class="p2-draw" x1="56" y1="226" x2="680" y2="226" stroke="#9D8FFF" stroke-opacity=".3"/>
     <g transform="translate(56 266)"><text class="p2-serif" font-size="34" font-weight="300" fill="#F5F3FF">1,000+</text><text class="p2-sans" y="24" font-size="12.5" fill="#C4C0D8">transactions processed</text></g>
@@ -51,7 +51,7 @@
     </g>
     <g class="p2-in p2-d2"><g transform="translate(0 35)">
       <g transform="translate(760 40)" class="p2-mono" font-size="13" text-anchor="middle">
-        <text x="12" y="20" text-anchor="start" font-size="10.5" letter-spacing="2.4" fill="#C4C0D8">UPI Â· CARD Â· HOSTED CHECKOUT</text>
+        <text x="12" y="20" text-anchor="start" font-size="10.5" letter-spacing="2.4" fill="#C4C0D8">UPI  -  CARD  -  HOSTED CHECKOUT</text>
         <path d="M12 120 H70" stroke="#9D8FFF" stroke-opacity=".5"/>
         <path class="p2-draw" d="M190 120 C 240 120, 250 64, 300 64" fill="none" stroke="#C4B5FD" stroke-width="1.5"/>
         <path d="M190 120 C 240 120, 250 176, 300 176" fill="none" stroke="#9D8FFF" stroke-opacity=".45" stroke-dasharray="4 6"/>
@@ -64,7 +64,7 @@
         <circle r="4.5" fill="#F5F3FF" filter="url(#p2-glowf)">
           <animateMotion dur="3.6s" repeatCount="indefinite" path="M12 120 H130 C 220 120, 250 64, 358 64" calcMode="spline" keyPoints="0;1" keyTimes="0;1" keySplines=".45 0 .55 1"/>
         </circle>
-        <text x="12" y="236" text-anchor="start" font-size="10.5" letter-spacing="1.5" fill="#C4C0D8">merchant API key + secret Â· Luhn validation</text>
+        <text x="12" y="236" text-anchor="start" font-size="10.5" letter-spacing="1.5" fill="#C4C0D8">merchant API key + secret  -  Luhn validation</text>
       </g>
     </g></g>
     <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#9D8FFF" stroke-opacity=".2"/>

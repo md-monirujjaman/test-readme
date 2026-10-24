@@ -1,6 +1,6 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ce-t ce-d">
-  <title id="ce-t">Certifications</title>
-  <desc id="ce-d">AWS Certified AI Practitioner; AWS Academy Graduate, Cloud Foundations. NPTEL: Database Management System, Fundamentals of Artificial Intelligence, Deep Learning. MongoDB Certified Associate Developer. Oracle Java Certified Foundations Associate and Oracle Certified Foundations Associate, Database. Cisco HTML Essentials, CSS Essentials, JavaScript Essentials 1 and 2, Python Essentials 1. GitHub Foundations. Pearson IT Specialist, HTML and CSS. Udemy Microsoft Azure Hands-On Training (AZ-900, AZ-104, AZ-305).</desc>
+  <title id="ce-t">Learning and toolkit</title>
+  <desc id="ce-d">React and TypeScript; BACKEND, REST API development. DATABASES: MongoDB and PostgreSQL, Fundamentals of Artificial Intelligence, Modern web interfaces. MongoDB TypeScript Projects Projects. Oracle TypeScript Certified Foundations Associate and Oracle Certified Foundations Associate, Databases. Cisco HTML Essentials, CSS Essentials, TypeScript Essentials 1 and 2, JavaScript Essentials 1. Git and GitHub. GitHub IT Specialist, HTML and CSS. Open source Microsoft Azure Hands-On Training (AZ-900, AZ-104, AZ-305).</desc>
   <defs>
     <linearGradient id="ce-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#0b091d"/></linearGradient>
     <radialGradient id="ce-glow" cx="15%" cy="100%" r="70%"><stop offset="0" stop-color="#302b63" stop-opacity=".5"/><stop offset="1" stop-color="#24243e" stop-opacity="0"/></radialGradient>
@@ -25,39 +25,39 @@
     <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">AWS</text>
     <circle cx="238" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="227" cy="31" r="3.5" fill="#9D8FFF"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#9D8FFF" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">AWS Certified AI Practitioner</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">AWS Academy Graduate â€”</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4B5FD">Cloud Foundations</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">React and TypeScript</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">Node.js and Express</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4B5FD">REST API development</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.32s"><g transform="translate(325 40)">
     <rect width="265" height="170" rx="14" fill="#0f0c29" stroke="#9D8FFF" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.35s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">NPTEL</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">DATABASES</text>
     <circle cx="238" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="227" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="216" cy="31" r="3.5" fill="#9D8FFF"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#9D8FFF" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">Database Management System</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">Fundamentals of AI</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4C0D8">Deep Learning</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">MongoDB and PostgreSQL</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">Full-stack applications</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4C0D8">Modern web interfaces</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.44s"><g transform="translate(610 40)">
     <rect width="265" height="170" rx="14" fill="#0f0c29" stroke="#9D8FFF" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:2.70s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">MONGODB</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">PROJECTS</text>
     <circle cx="238" cy="31" r="3.5" fill="#9D8FFF"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#9D8FFF" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">Certified Associate</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">Developer</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">TypeScript Projects</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">Projects</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.56s"><g transform="translate(895 40)">
     <rect width="265" height="170" rx="14" fill="#0f0c29" stroke="#9D8FFF" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.05s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">ORACLE</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">FRONTEND</text>
     <circle cx="238" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="227" cy="31" r="3.5" fill="#9D8FFF"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#9D8FFF" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">Java Foundations Associate</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">Foundations Associate â€”</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4B5FD">Database</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">TypeScript Foundations Associate</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">Frontend and backend</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4B5FD">Databases</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.68s"><g transform="translate(40 230)">
     <rect width="265" height="170" rx="14" fill="#0f0c29" stroke="#9D8FFF" stroke-opacity=".24"/>
     <rect width="265" height="170" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.2" class="ce-edge" style="animation-delay:3.40s"/>
-    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">CISCO</text>
+    <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">TOOLS</text>
     <circle cx="238" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="227" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="216" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="205" cy="31" r="3.5" fill="#9D8FFF"/><circle cx="194" cy="31" r="3.5" fill="#9D8FFF"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#9D8FFF" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">HTML Â· CSS Essentials</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">JavaScript Essentials 1 &amp; 2</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4C0D8">Python Essentials 1</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">HTML  -  CSS  -  JavaScript</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">TypeScript Essentials 1 &amp; 2</text><text class="ce-sans" x="22" y="130" font-size="14" fill="#C4C0D8">JavaScript Essentials 1</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.80s"><g transform="translate(325 230)">
     <rect width="265" height="170" rx="14" fill="#0f0c29" stroke="#9D8FFF" stroke-opacity=".24"/>
@@ -65,7 +65,7 @@
     <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">GITHUB</text>
     <circle cx="238" cy="31" r="3.5" fill="#9D8FFF"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#9D8FFF" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">GitHub Foundations</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">Git and GitHub</text>
   </g></g>
   <g class="ce-tile" style="animation-delay:0.92s"><g transform="translate(610 230)">
     <rect width="265" height="170" rx="14" fill="#0f0c29" stroke="#9D8FFF" stroke-opacity=".24"/>
@@ -81,6 +81,6 @@
     <text class="ce-mono" x="22" y="36" font-size="11.5" letter-spacing="2.6" fill="#9D8FFF">UDEMY</text>
     <circle cx="238" cy="31" r="3.5" fill="#9D8FFF"/>
     <line x1="22" y1="54" x2="243" y2="54" stroke="#9D8FFF" stroke-opacity=".15"/>
-    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">Microsoft Azure Hands-On</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">AZ-900 Â· AZ-104 Â· AZ-305</text>
+    <text class="ce-sans" x="22" y="86" font-size="14" fill="#F5F3FF">Microsoft Azure Hands-On</text><text class="ce-sans" x="22" y="108" font-size="14" fill="#F5F3FF">AZ-900  -  AZ-104  -  AZ-305</text>
   </g></g>
 </svg>
