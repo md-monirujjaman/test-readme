@@ -2,20 +2,20 @@
   <title id="p4-t">StudyNook: Many organisations, one database, no cross-tenant access.</title>
   <defs>
     <linearGradient id="p4-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#0b091d"/>
+      <stop offset="0" stop-color="#19000a"/><stop offset="1" stop-color="#100007"/>
     </linearGradient>
     <radialGradient id="p4-glow" cx="82%" cy="30%" r="55%">
-      <stop offset="0" stop-color="#302b63" stop-opacity=".7"/><stop offset="1" stop-color="#24243e" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7a001c" stop-opacity=".7"/><stop offset="1" stop-color="#3d0010" stop-opacity="0"/>
     </radialGradient>
     <pattern id="p4-grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#9D8FFF" stroke-opacity=".07"/>
+      <path d="M28 0H0V28" fill="none" stroke="#e10032" stroke-opacity=".07"/>
     </pattern>
     <filter id="p4-glowf" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <clipPath id="p4-clip"><rect width="1200" height="370" rx="18"/></clipPath>
     <linearGradient id="p4-trace" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F5F3FF"/><stop offset=".45" stop-color="#C4B5FD"/><stop offset="1" stop-color="#9D8FFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#fff4f6"/><stop offset=".45" stop-color="#ff6b88"/><stop offset="1" stop-color="#e10032" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <style>
@@ -39,42 +39,42 @@
     <rect x="720" width="480" height="370" fill="url(#p4-grid)"/>
     <rect width="1200" height="370" fill="url(#p4-glow)"/>
     <g class="p4-in p4-d1">
-      <text class="p4-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">04  -  SAAS  -  SECURITY  -  2026</text>
-      <text class="p4-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F5F3FF">StudyNook</text>
-      <text class="p4-sans" x="56" y="166" font-size="17" fill="#C4C0D8">Many organisations, one database, no cross-tenant access.</text>
-      <text class="p4-mono" x="56" y="200" font-size="12.5" fill="#C4B5FD"><tspan fill="#9D8FFF">BUILT â€º</tspan> tenant_id-scoped middleware, 4-level JWT/RBAC, one-command deploy</text>
-      <line class="p4-draw" x1="56" y1="226" x2="680" y2="226" stroke="#9D8FFF" stroke-opacity=".3"/>
-    <g transform="translate(56 266)"><text class="p4-serif" font-size="34" font-weight="300" fill="#F5F3FF">50+</text><text class="p4-sans" y="24" font-size="12.5" fill="#C4C0D8">concurrent tenants</text></g>
-    <g transform="translate(261 266)"><text class="p4-serif" font-size="34" font-weight="300" fill="#F5F3FF">0</text><text class="p4-sans" y="24" font-size="12.5" fill="#C4C0D8">unauthorised-access incidents</text></g>
-    <g transform="translate(466 266)"><text class="p4-serif" font-size="34" font-weight="300" fill="#F5F3FF">&lt;2 min</text><text class="p4-sans" y="24" font-size="12.5" fill="#C4C0D8">setup, down from 45</text></g>
-      <g class="p4-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="70" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p4-mono" x="91" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">Node.js</text></g><g class="p4-chip" style="animation-delay:1.12s"><rect x="134" y="314" width="55" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p4-mono" x="161" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">React</text></g><g class="p4-chip" style="animation-delay:1.24s"><rect x="197" y="314" width="92" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p4-mono" x="243" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">PostgreSQL</text></g><g class="p4-chip" style="animation-delay:1.36s"><rect x="297" y="314" width="122" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p4-mono" x="358" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">Docker Compose</text></g><g class="p4-chip" style="animation-delay:1.48s"><rect x="426" y="314" width="40" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p4-mono" x="447" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">JWT</text></g>
+      <text class="p4-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#e10032">04  -  SAAS  -  SECURITY  -  2026</text>
+      <text class="p4-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#fff4f6">StudyNook</text>
+      <text class="p4-sans" x="56" y="166" font-size="17" fill="#e5aab5">Many organisations, one database, no cross-tenant access.</text>
+      <text class="p4-mono" x="56" y="200" font-size="12.5" fill="#ff6b88"><tspan fill="#e10032">BUILT â€º</tspan> tenant_id-scoped middleware, 4-level JWT/RBAC, one-command deploy</text>
+      <line class="p4-draw" x1="56" y1="226" x2="680" y2="226" stroke="#e10032" stroke-opacity=".3"/>
+    <g transform="translate(56 266)"><text class="p4-serif" font-size="34" font-weight="300" fill="#fff4f6">50+</text><text class="p4-sans" y="24" font-size="12.5" fill="#e5aab5">concurrent tenants</text></g>
+    <g transform="translate(261 266)"><text class="p4-serif" font-size="34" font-weight="300" fill="#fff4f6">0</text><text class="p4-sans" y="24" font-size="12.5" fill="#e5aab5">unauthorised-access incidents</text></g>
+    <g transform="translate(466 266)"><text class="p4-serif" font-size="34" font-weight="300" fill="#fff4f6">&lt;2 min</text><text class="p4-sans" y="24" font-size="12.5" fill="#e5aab5">setup, down from 45</text></g>
+      <g class="p4-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="70" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p4-mono" x="91" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Node.js</text></g><g class="p4-chip" style="animation-delay:1.12s"><rect x="134" y="314" width="55" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p4-mono" x="161" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">React</text></g><g class="p4-chip" style="animation-delay:1.24s"><rect x="197" y="314" width="92" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p4-mono" x="243" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">PostgreSQL</text></g><g class="p4-chip" style="animation-delay:1.36s"><rect x="297" y="314" width="122" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p4-mono" x="358" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Docker Compose</text></g><g class="p4-chip" style="animation-delay:1.48s"><rect x="426" y="314" width="40" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p4-mono" x="447" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">JWT</text></g>
     </g>
     <g class="p4-in p4-d2"><g transform="translate(0 35)">
       <g transform="translate(860 30)">
         <g transform="translate(0 200)">
           <animateTransform attributeName="transform" type="translate" values="0 200; 0 200; 0 200" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
-          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#24243e" fill-opacity=".92" stroke="#C4B5FD" stroke-opacity=".7" stroke-dasharray="5 4"/>
-          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#F5F3FF" transform="skewX(-38) translate(14 0)">shared PostgreSQL</text>
+          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#3d0010" fill-opacity=".92" stroke="#ff6b88" stroke-opacity=".7" stroke-dasharray="5 4"/>
+          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#fff4f6" transform="skewX(-38) translate(14 0)">shared PostgreSQL</text>
         </g>
         <g transform="translate(0 158)">
           <animateTransform attributeName="transform" type="translate" values="0 158; 0 152; 0 158" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
-          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#27101C" fill-opacity=".92" stroke="#9D8FFF" stroke-opacity=".45" />
-          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#F5F3FF" transform="skewX(-38) translate(14 0)">tenant_id = 01</text>
+          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#28000b" fill-opacity=".92" stroke="#e10032" stroke-opacity=".45" />
+          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#fff4f6" transform="skewX(-38) translate(14 0)">tenant_id = 01</text>
         </g>
         <g transform="translate(0 116)">
           <animateTransform attributeName="transform" type="translate" values="0 116; 0 104; 0 116" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
-          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#27101C" fill-opacity=".92" stroke="#9D8FFF" stroke-opacity=".45" />
-          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#F5F3FF" transform="skewX(-38) translate(14 0)">tenant_id = 02</text>
+          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#28000b" fill-opacity=".92" stroke="#e10032" stroke-opacity=".45" />
+          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#fff4f6" transform="skewX(-38) translate(14 0)">tenant_id = 02</text>
         </g>
         <g transform="translate(0 74)">
           <animateTransform attributeName="transform" type="translate" values="0 74; 0 56; 0 74" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
-          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#27101C" fill-opacity=".92" stroke="#9D8FFF" stroke-opacity=".45" />
-          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#F5F3FF" transform="skewX(-38) translate(14 0)">tenant_id = 03</text>
+          <path d="M0 0 L120 -46 L280 -46 L160 0 Z" fill="#28000b" fill-opacity=".92" stroke="#e10032" stroke-opacity=".45" />
+          <text class="p4-mono" x="96" y="-17" font-size="10.5" fill="#fff4f6" transform="skewX(-38) translate(14 0)">tenant_id = 03</text>
         </g>
       </g>
-      <text class="p4-mono" x="1176" y="270" text-anchor="end" font-size="10.5" letter-spacing="1.5" fill="#C4C0D8">WHERE tenant_id = :tenant  -  4-LEVEL JWT / RBAC</text>
+      <text class="p4-mono" x="1176" y="270" text-anchor="end" font-size="10.5" letter-spacing="1.5" fill="#e5aab5">WHERE tenant_id = :tenant  -  4-LEVEL JWT / RBAC</text>
     </g></g>
-    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#9D8FFF" stroke-opacity=".2"/>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#e10032" stroke-opacity=".2"/>
     <rect class="p4-trace" style="animation-delay:-5.1s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p4-trace)" stroke-width="1.6" stroke-linecap="round"/>
   </g>
 </svg>

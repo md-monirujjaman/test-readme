@@ -2,20 +2,20 @@
   <title id="p3-t">SkillSwap â€” Myntra Bharat AI: An explainable AI fashion assistant that understands Hinglish occasions.</title>
   <defs>
     <linearGradient id="p3-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#0b091d"/>
+      <stop offset="0" stop-color="#19000a"/><stop offset="1" stop-color="#100007"/>
     </linearGradient>
     <radialGradient id="p3-glow" cx="82%" cy="30%" r="55%">
-      <stop offset="0" stop-color="#302b63" stop-opacity=".7"/><stop offset="1" stop-color="#24243e" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7a001c" stop-opacity=".7"/><stop offset="1" stop-color="#3d0010" stop-opacity="0"/>
     </radialGradient>
     <pattern id="p3-grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#9D8FFF" stroke-opacity=".07"/>
+      <path d="M28 0H0V28" fill="none" stroke="#e10032" stroke-opacity=".07"/>
     </pattern>
     <filter id="p3-glowf" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <clipPath id="p3-clip"><rect width="1200" height="370" rx="18"/></clipPath>
     <linearGradient id="p3-trace" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F5F3FF"/><stop offset=".45" stop-color="#C4B5FD"/><stop offset="1" stop-color="#9D8FFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#fff4f6"/><stop offset=".45" stop-color="#ff6b88"/><stop offset="1" stop-color="#e10032" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <style>
@@ -39,65 +39,65 @@
     <rect x="720" width="480" height="370" fill="url(#p3-grid)"/>
     <rect width="1200" height="370" fill="url(#p3-glow)"/>
     <g class="p3-in p3-d1">
-      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#9D8FFF">03  -  MYNTRA WEFORSHE HACKERRAMP 2026  -  TOP 100</text>
-      <text class="p3-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F5F3FF">SkillSwap<tspan class="p3-serif" font-size="22" font-style="italic" fill="#C4B5FD" dx="14">Myntra Bharat AI</tspan></text>
-      <text class="p3-sans" x="56" y="166" font-size="17" fill="#C4C0D8">An explainable AI fashion assistant that understands Hinglish occasions.</text>
-      <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#C4B5FD"><tspan fill="#9D8FFF">BUILT â€º</tspan> team entry: rules-first recommender that explains every ranking</text>
-      <line class="p3-draw" x1="56" y1="226" x2="680" y2="226" stroke="#9D8FFF" stroke-opacity=".3"/>
-    <g transform="translate(56 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F5F3FF">5</text><text class="p3-sans" y="24" font-size="12.5" fill="#C4C0D8">stage pipeline</text></g>
-    <g transform="translate(261 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F5F3FF">10</text><text class="p3-sans" y="24" font-size="12.5" fill="#C4C0D8">scoring signals</text></g>
-    <g transform="translate(466 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#F5F3FF">Hinglish</text><text class="p3-sans" y="24" font-size="12.5" fill="#C4C0D8">occasion-aware prompts</text></g>
-      <g class="p3-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="77" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p3-mono" x="95" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">React 19</text></g><g class="p3-chip" style="animation-delay:1.12s"><rect x="141" y="314" width="92" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p3-mono" x="187" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">TypeScript</text></g><g class="p3-chip" style="animation-delay:1.24s"><rect x="241" y="314" width="33" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p3-mono" x="258" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">Go</text></g><g class="p3-chip" style="animation-delay:1.36s"><rect x="282" y="314" width="92" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p3-mono" x="328" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">PostgreSQL</text></g><g class="p3-chip" style="animation-delay:1.48s"><rect x="382" y="314" width="55" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p3-mono" x="410" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">Redis</text></g><g class="p3-chip" style="animation-delay:1.60s"><rect x="445" y="314" width="62" height="26" rx="13" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".35"/><text class="p3-mono" x="476" y="331" text-anchor="middle" font-size="11.5" fill="#C4B5FD">Gemini</text></g>
+      <text class="p3-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#e10032">03  -  MYNTRA WEFORSHE HACKERRAMP 2026  -  TOP 100</text>
+      <text class="p3-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#fff4f6">SkillSwap<tspan class="p3-serif" font-size="22" font-style="italic" fill="#ff6b88" dx="14">Myntra Bharat AI</tspan></text>
+      <text class="p3-sans" x="56" y="166" font-size="17" fill="#e5aab5">An explainable AI fashion assistant that understands Hinglish occasions.</text>
+      <text class="p3-mono" x="56" y="200" font-size="12.5" fill="#ff6b88"><tspan fill="#e10032">BUILT â€º</tspan> team entry: rules-first recommender that explains every ranking</text>
+      <line class="p3-draw" x1="56" y1="226" x2="680" y2="226" stroke="#e10032" stroke-opacity=".3"/>
+    <g transform="translate(56 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#fff4f6">5</text><text class="p3-sans" y="24" font-size="12.5" fill="#e5aab5">stage pipeline</text></g>
+    <g transform="translate(261 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#fff4f6">10</text><text class="p3-sans" y="24" font-size="12.5" fill="#e5aab5">scoring signals</text></g>
+    <g transform="translate(466 266)"><text class="p3-serif" font-size="34" font-weight="300" fill="#fff4f6">Hinglish</text><text class="p3-sans" y="24" font-size="12.5" fill="#e5aab5">occasion-aware prompts</text></g>
+      <g class="p3-chip" style="animation-delay:1.00s"><rect x="56" y="314" width="77" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p3-mono" x="95" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">React 19</text></g><g class="p3-chip" style="animation-delay:1.12s"><rect x="141" y="314" width="92" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p3-mono" x="187" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">TypeScript</text></g><g class="p3-chip" style="animation-delay:1.24s"><rect x="241" y="314" width="33" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p3-mono" x="258" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Go</text></g><g class="p3-chip" style="animation-delay:1.36s"><rect x="282" y="314" width="92" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p3-mono" x="328" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">PostgreSQL</text></g><g class="p3-chip" style="animation-delay:1.48s"><rect x="382" y="314" width="55" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p3-mono" x="410" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Redis</text></g><g class="p3-chip" style="animation-delay:1.60s"><rect x="445" y="314" width="62" height="26" rx="13" fill="#28000b" stroke="#e10032" stroke-opacity=".35"/><text class="p3-mono" x="476" y="331" text-anchor="middle" font-size="11.5" fill="#ff6b88">Gemini</text></g>
     </g>
     <g class="p3-in p3-d2"><g transform="translate(0 35)">
       <g>
-        <rect x="760" y="50" width="250" height="38" rx="12" fill="#F5F3FF" fill-opacity=".07" stroke="#9D8FFF" stroke-opacity=".3"/>
-        <text class="p3-mono" x="776" y="74" font-size="12" fill="#F5F3FF">â€œoutfit for a sangeetâ€</text>
+        <rect x="760" y="50" width="250" height="38" rx="12" fill="#fff4f6" fill-opacity=".07" stroke="#e10032" stroke-opacity=".3"/>
+        <text class="p3-mono" x="776" y="74" font-size="12" fill="#fff4f6">â€œoutfit for a sangeetâ€</text>
         <g transform="translate(760 112)">
-          <rect width="76" height="58" rx="9" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".3">
-            <animate attributeName="fill" values="#27101C;#302b63;#27101C;#27101C" keyTimes="0;.08;.2;1" dur="6s" begin="1.0s" repeatCount="indefinite"/>
+          <rect width="76" height="58" rx="9" fill="#28000b" stroke="#e10032" stroke-opacity=".3">
+            <animate attributeName="fill" values="#28000b;#7a001c;#28000b;#28000b" keyTimes="0;.08;.2;1" dur="6s" begin="1.0s" repeatCount="indefinite"/>
             <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="1.0s" repeatCount="indefinite"/>
           </rect>
-          <text class="p3-mono" x="8" y="18" font-size="9" fill="#C4C0D8">01</text>
-          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F5F3FF">Understand</text>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#e5aab5">01</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#fff4f6">Understand</text>
         </g>
         <g transform="translate(844 112)">
-          <rect width="76" height="58" rx="9" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".3">
-            <animate attributeName="fill" values="#27101C;#302b63;#27101C;#27101C" keyTimes="0;.08;.2;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+          <rect width="76" height="58" rx="9" fill="#28000b" stroke="#e10032" stroke-opacity=".3">
+            <animate attributeName="fill" values="#28000b;#7a001c;#28000b;#28000b" keyTimes="0;.08;.2;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
             <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
           </rect>
-          <text class="p3-mono" x="8" y="18" font-size="9" fill="#C4C0D8">02</text>
-          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F5F3FF">Retrieve</text>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#e5aab5">02</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#fff4f6">Retrieve</text>
         </g>
         <g transform="translate(928 112)">
-          <rect width="76" height="58" rx="9" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".3">
-            <animate attributeName="fill" values="#27101C;#302b63;#27101C;#27101C" keyTimes="0;.08;.2;1" dur="6s" begin="2.2s" repeatCount="indefinite"/>
+          <rect width="76" height="58" rx="9" fill="#28000b" stroke="#e10032" stroke-opacity=".3">
+            <animate attributeName="fill" values="#28000b;#7a001c;#28000b;#28000b" keyTimes="0;.08;.2;1" dur="6s" begin="2.2s" repeatCount="indefinite"/>
             <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="2.2s" repeatCount="indefinite"/>
           </rect>
-          <text class="p3-mono" x="8" y="18" font-size="9" fill="#C4C0D8">03</text>
-          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F5F3FF">Score</text>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#e5aab5">03</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#fff4f6">Score</text>
         </g>
         <g transform="translate(1012 112)">
-          <rect width="76" height="58" rx="9" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".3">
-            <animate attributeName="fill" values="#27101C;#302b63;#27101C;#27101C" keyTimes="0;.08;.2;1" dur="6s" begin="2.8s" repeatCount="indefinite"/>
+          <rect width="76" height="58" rx="9" fill="#28000b" stroke="#e10032" stroke-opacity=".3">
+            <animate attributeName="fill" values="#28000b;#7a001c;#28000b;#28000b" keyTimes="0;.08;.2;1" dur="6s" begin="2.8s" repeatCount="indefinite"/>
             <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="2.8s" repeatCount="indefinite"/>
           </rect>
-          <text class="p3-mono" x="8" y="18" font-size="9" fill="#C4C0D8">04</text>
-          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F5F3FF">Diversify</text>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#e5aab5">04</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#fff4f6">Diversify</text>
         </g>
         <g transform="translate(1096 112)">
-          <rect width="76" height="58" rx="9" fill="#27101C" stroke="#9D8FFF" stroke-opacity=".3">
-            <animate attributeName="fill" values="#27101C;#302b63;#27101C;#27101C" keyTimes="0;.08;.2;1" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+          <rect width="76" height="58" rx="9" fill="#28000b" stroke="#e10032" stroke-opacity=".3">
+            <animate attributeName="fill" values="#28000b;#7a001c;#28000b;#28000b" keyTimes="0;.08;.2;1" dur="6s" begin="3.4s" repeatCount="indefinite"/>
             <animate attributeName="stroke-opacity" values=".3;1;.3;.3" keyTimes="0;.08;.2;1" dur="6s" begin="3.4s" repeatCount="indefinite"/>
           </rect>
-          <text class="p3-mono" x="8" y="18" font-size="9" fill="#C4C0D8">05</text>
-          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#F5F3FF">Explain</text>
+          <text class="p3-mono" x="8" y="18" font-size="9" fill="#e5aab5">05</text>
+          <text class="p3-mono" x="38" y="40" font-size="9.5" text-anchor="middle" fill="#fff4f6">Explain</text>
         </g>
-        <text class="p3-mono" x="1176" y="214" font-size="12" text-anchor="end" fill="#C4B5FD">sangeet > wedding wear  -  affinity 0.85</text>
-        <text class="p3-mono" x="1176" y="240" font-size="10.5" text-anchor="end" letter-spacing="1.5" fill="#C4C0D8">GEMINI OPTIONAL  -  RULES FIRST</text>
+        <text class="p3-mono" x="1176" y="214" font-size="12" text-anchor="end" fill="#ff6b88">sangeet > wedding wear  -  affinity 0.85</text>
+        <text class="p3-mono" x="1176" y="240" font-size="10.5" text-anchor="end" letter-spacing="1.5" fill="#e5aab5">GEMINI OPTIONAL  -  RULES FIRST</text>
       </g>
     </g></g>
-    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#9D8FFF" stroke-opacity=".2"/>
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#e10032" stroke-opacity=".2"/>
     <rect class="p3-trace" style="animation-delay:-3.4s" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p3-trace)" stroke-width="1.6" stroke-linecap="round"/>
   </g>
 </svg>

@@ -4,36 +4,36 @@
 
   <defs>
     <linearGradient id="ach-bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0f0c29"/>
-      <stop offset="1" stop-color="#0b091d"/>
+      <stop offset="0" stop-color="#19000a"/>
+      <stop offset="1" stop-color="#100007"/>
     </linearGradient>
     <radialGradient id="ach-glow-a" cx="85%" cy="0%" r="90%">
-      <stop offset="0" stop-color="#302b63" stop-opacity=".85"/>
-      <stop offset="1" stop-color="#24243e" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7a001c" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#3d0010" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="ach-glow-b" cx="90%" cy="0%" r="90%">
-      <stop offset="0" stop-color="#9D8FFF" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#24243e" stop-opacity="0"/>
+      <stop offset="0" stop-color="#e10032" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#3d0010" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="ach-hair" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#C9A27A" stop-opacity="0"/>
       <stop offset=".4" stop-color="#C9A27A"/>
-      <stop offset=".6" stop-color="#C4B5FD"/>
-      <stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+      <stop offset=".6" stop-color="#ff6b88"/>
+      <stop offset="1" stop-color="#ff6b88" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="ach-outline" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#C4B5FD" stop-opacity=".55"/>
-      <stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ff6b88" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ff6b88" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="ach-sheen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F5F3FF" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#F5F3FF" stop-opacity=".08"/>
-      <stop offset="1" stop-color="#F5F3FF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#fff4f6" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff4f6" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#fff4f6" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="ach-clip-a"><rect x="0" y="0" width="700" height="250" rx="16"/></clipPath>
     <clipPath id="ach-clip-b"><rect x="0" y="0" width="476" height="250" rx="16"/></clipPath>
     <linearGradient id="ach-trace" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F5F3FF"/><stop offset=".45" stop-color="#C4B5FD"/><stop offset="1" stop-color="#9D8FFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#fff4f6"/><stop offset=".45" stop-color="#ff6b88"/><stop offset="1" stop-color="#e10032" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
@@ -58,76 +58,76 @@
   </style>
 
   <rect width="1200" height="430" rx="20" fill="url(#ach-bg)"/>
-  <rect x=".5" y=".5" width="1199" height="429" rx="19.5" fill="none" stroke="#9D8FFF" stroke-opacity=".16"/>
+  <rect x=".5" y=".5" width="1199" height="429" rx="19.5" fill="none" stroke="#e10032" stroke-opacity=".16"/>
 
   <!-- Flipkart GRiD 7.0 â€” hero card -->
   <g class="ach-in a1"><g transform="translate(24 24)">
     <g clip-path="url(#ach-clip-a)">
-      <rect width="700" height="250" fill="#0f0c29"/>
+      <rect width="700" height="250" fill="#19000a"/>
       <rect width="700" height="250" fill="url(#ach-glow-a)"/>
       <text class="ach-serif" x="684" y="124" text-anchor="end" font-size="128" font-weight="300" letter-spacing="-6" fill="url(#ach-outline)">GRiD 7.0</text>
       <rect x="-300" y="0" width="260" height="250" fill="url(#ach-sheen)" transform="skewX(-18)">
         <animate attributeName="x" values="-300;900;900" keyTimes="0;.35;1" dur="9s" begin="2s" repeatCount="indefinite"/>
       </rect>
     </g>
-    <rect x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="#9D8FFF" stroke-opacity=".38"/>
+    <rect x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="#e10032" stroke-opacity=".38"/>
     <rect class="ach-trace-a" x=".5" y=".5" width="699" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
     <rect x="40" y="0" width="300" height="1" fill="url(#ach-hair)"/>
-    <text class="ach-mono" x="36" y="154" font-size="12" letter-spacing="2.6" fill="#9D8FFF">FLIPKART  -  ENGINEERING CHALLENGE</text>
-    <text class="ach-serif" x="34" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F5F3FF">National Semi-Finalist</text>
-    <text class="ach-sans" x="36" y="230" font-size="14" fill="#C4C0D8">Flipkart GRiD 7.0</text>
+    <text class="ach-mono" x="36" y="154" font-size="12" letter-spacing="2.6" fill="#e10032">FLIPKART  -  ENGINEERING CHALLENGE</text>
+    <text class="ach-serif" x="34" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#fff4f6">National Semi-Finalist</text>
+    <text class="ach-sans" x="36" y="230" font-size="14" fill="#e5aab5">Flipkart GRiD 7.0</text>
   </g></g>
 
   <!-- Myntra WeForShe HackerRamp 2026 -->
   <g class="ach-in a2"><g transform="translate(700 24)">
     <g transform="translate(24 0)">
       <g clip-path="url(#ach-clip-b)">
-        <rect width="476" height="250" fill="#0f0c29"/>
+        <rect width="476" height="250" fill="#19000a"/>
         <rect width="476" height="250" fill="url(#ach-glow-b)"/>
-        <text class="ach-serif" x="490" y="132" text-anchor="end" font-size="160" font-style="italic" font-weight="300" letter-spacing="-6" fill="none" stroke="#C4B5FD" stroke-opacity=".3">100</text>
+        <text class="ach-serif" x="490" y="132" text-anchor="end" font-size="160" font-style="italic" font-weight="300" letter-spacing="-6" fill="none" stroke="#ff6b88" stroke-opacity=".3">100</text>
       </g>
-      <rect x=".5" y=".5" width="475" height="249" rx="15.5" fill="none" stroke="#9D8FFF" stroke-opacity=".3"/>
+      <rect x=".5" y=".5" width="475" height="249" rx="15.5" fill="none" stroke="#e10032" stroke-opacity=".3"/>
       <rect class="ach-trace-b" x=".5" y=".5" width="475" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
       <rect x="40" y="0" width="220" height="1" fill="url(#ach-hair)"/>
-      <text class="ach-mono" x="32" y="154" font-size="12" letter-spacing="2.6" fill="#9D8FFF">MYNTRA  -  WEFORSHE HACKERRAMP 2026</text>
-      <text class="ach-serif" x="30" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#F5F3FF">Top 100 Team</text>
-      <text class="ach-sans" x="32" y="230" font-size="14" fill="#C4C0D8">SkillSwap â€” explainable AI fashion assistant</text>
+      <text class="ach-mono" x="32" y="154" font-size="12" letter-spacing="2.6" fill="#e10032">MYNTRA  -  WEFORSHE HACKERRAMP 2026</text>
+      <text class="ach-serif" x="30" y="204" font-size="46" font-weight="300" letter-spacing="-1" fill="#fff4f6">Top 100 Team</text>
+      <text class="ach-sans" x="32" y="230" font-size="14" fill="#e5aab5">SkillSwap â€” explainable AI fashion assistant</text>
     </g>
   </g></g>
 
   <!-- Animated connector across the score strip -->
-  <path class="ach-draw" d="M24 300 H1176" stroke="#9D8FFF" stroke-opacity=".35"/>
+  <path class="ach-draw" d="M24 300 H1176" stroke="#e10032" stroke-opacity=".35"/>
 
   <!-- Score strip -->
-  <g class="ach-in a3 ach-sans" font-size="13" fill="#C4C0D8">
+  <g class="ach-in a3 ach-sans" font-size="13" fill="#e5aab5">
     <g transform="translate(36 300)">
-      <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">ACADEMICS</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">9.10</text>
+      <circle cx="0" cy="0" r="3.5" fill="#ff6b88"/>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#e10032">ACADEMICS</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#fff4f6">9.10</text>
       <text y="102">CGPA  -  B.Tech Web Development</text>
     </g>
     <g transform="translate(266 300)">
-      <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">LEETCODE</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">400+</text>
+      <circle cx="0" cy="0" r="3.5" fill="#ff6b88"/>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#e10032">LEETCODE</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#fff4f6">400+</text>
       <text y="102">peak contest rating 1321</text>
     </g>
     <g transform="translate(496 300)">
-      <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">GEEKSFORGEEKS</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">400+</text>
+      <circle cx="0" cy="0" r="3.5" fill="#ff6b88"/>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#e10032">GEEKSFORGEEKS</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#fff4f6">400+</text>
       <text y="102">score 950  -  responsive web work</text>
     </g>
     <g transform="translate(726 300)">
-      <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">CODECHEF</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">415+</text>
+      <circle cx="0" cy="0" r="3.5" fill="#ff6b88"/>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#e10032">CODECHEF</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#fff4f6">415+</text>
       <text y="102">problems solved</text>
     </g>
     <g transform="translate(956 300)">
-      <circle cx="0" cy="0" r="3.5" fill="#C4B5FD"/>
-      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#9D8FFF">HACKERRANK</text>
-      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#F5F3FF">5â˜…</text>
+      <circle cx="0" cy="0" r="3.5" fill="#ff6b88"/>
+      <text class="ach-mono" y="34" font-size="11" letter-spacing="2" fill="#e10032">HACKERRANK</text>
+      <text class="ach-serif" y="78" font-size="40" font-weight="300" fill="#fff4f6">5â˜…</text>
       <text y="102">C  -  JavaScript  -  TypeScript</text>
     </g>
   </g>
