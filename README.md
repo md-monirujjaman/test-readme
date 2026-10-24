@@ -31,16 +31,22 @@
   <a href="https://github.com/md-monirujjaman/ormitech-admin"><img src="https://img.shields.io/badge/Repository-OrmiTech_Admin-00abf0?style=for-the-badge&labelColor=07111f&logoColor=effaff&logo=github" alt="OrmiTech Admin repository"></a>
 </p>
 
+<br>
+
 <a href="https://github.com/md-monirujjaman/ormitech-web"><img src="assets/project-ormitech-web.svg" width="100%" alt="OrmiTech Web: a JavaScript web application for OrmiTech IT."></a>
 <p align="center">
   <a href="https://github.com/md-monirujjaman/ormitech-web"><img src="https://img.shields.io/badge/Repository-OrmiTech_Web-00abf0?style=for-the-badge&labelColor=07111f&logoColor=effaff&logo=github" alt="OrmiTech Web repository"></a>
 </p>
+
+<br>
 
 <a href="https://github.com/md-monirujjaman/skillswap-client"><img src="assets/project-skillswap.svg" width="100%" alt="SkillSwap: a client application for connecting people through shared skills."></a>
 <p align="center">
   <a href="https://github.com/md-monirujjaman/skillswap-client"><img src="https://img.shields.io/badge/Client-SkillSwap-00abf0?style=for-the-badge&labelColor=07111f&logoColor=effaff&logo=github" alt="SkillSwap client repository"></a>
   <a href="https://github.com/md-monirujjaman/skillswap-server"><img src="https://img.shields.io/badge/Server-SkillSwap-00abf0?style=for-the-badge&labelColor=07111f&logoColor=effaff&logo=github" alt="SkillSwap server repository"></a>
 </p>
+
+<br>
 
 <a href="https://github.com/md-monirujjaman/A9-studyNook-"><img src="assets/project-studynook.svg" width="100%" alt="StudyNook: a JavaScript study-focused web project."></a>
 <p align="center">
@@ -55,9 +61,6 @@
 
 <img src="assets/title-commits.svg" width="100%" alt="04 Commit log â€” A year of building.">
 <img src="assets/contribution-snake.svg" width="100%" alt="Animated contribution activity for md-monirujjaman.">
-<br>
-
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" alt=""> GitHub Activity</h1>
 <br><br>
 
 <img src="assets/title-certifications.svg" width="100%" alt="05 Learning â€” Always improving.">

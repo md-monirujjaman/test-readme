@@ -7,16 +7,35 @@
     <linearGradient id="line" x1="0" x2="1"><stop stop-color="#00abf0" stop-opacity="0"/><stop offset=".5" stop-color="#7dd3fc"/><stop offset="1" stop-color="#00abf0" stop-opacity="0"/></linearGradient>
     <clipPath id="portrait"><circle cx="972" cy="224" r="143"/></clipPath>
   </defs>
+  <style>
+    .hero-in { animation: hero-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .hero-copy { animation: hero-copy 1s cubic-bezier(.16,1,.3,1) .2s both; }
+    .hero-photo { transform-box: fill-box; transform-origin: center; animation: hero-photo 1.2s cubic-bezier(.16,1,.3,1) .35s both; }
+    .hero-ring { transform-box: fill-box; transform-origin: center; animation: hero-ring 7s linear infinite; }
+    .hero-orbit { transform-origin: 972px 224px; animation: hero-orbit 12s linear infinite; }
+    .hero-dot { animation: hero-dot 2.4s ease-in-out infinite; }
+    @keyframes hero-in { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    @keyframes hero-copy { from { opacity: 0; transform: translateX(-18px); } to { opacity: 1; transform: none; } }
+    @keyframes hero-photo { from { opacity: 0; transform: scale(.82); } to { opacity: 1; transform: scale(1); } }
+    @keyframes hero-ring { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes hero-orbit { from { transform: rotate(0deg); } to { transform: rotate(-360deg); } }
+    @keyframes hero-dot { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .hero-in, .hero-copy, .hero-photo, .hero-ring, .hero-orbit, .hero-dot { animation: none; }
+    }
+  </style>
   <rect width="1200" height="460" rx="22" fill="url(#bg)"/>
   <rect width="1200" height="460" rx="22" fill="url(#glow)"/>
   <rect x=".5" y=".5" width="1199" height="459" rx="21.5" fill="none" stroke="#00abf0" stroke-opacity=".35"/>
   <g fill="#7dd3fc" opacity=".7"><circle cx="70" cy="78" r="2"/><circle cx="1120" cy="72" r="2"/><circle cx="1148" cy="370" r="1.5"/><circle cx="790" cy="62" r="1.5"/></g>
-  <text x="76" y="104" fill="#b9d9ee" font-family="ui-monospace,monospace" font-size="12" letter-spacing="3.6">MD MONIRUJJAMAN  /  FULL-STACK DEVELOPER</text>
-  <text x="72" y="205" fill="#effaff" font-family="Georgia,serif" font-size="68" font-weight="300">Hello, I'm</text>
-  <text x="72" y="277" fill="#7dd3fc" font-family="Georgia,serif" font-size="68" font-style="italic" font-weight="300">Monirujjaman.</text>
-  <text x="76" y="322" fill="#b9d9ee" font-family="ui-monospace,monospace" font-size="13">Building systems that make life effortless.</text>
+  <g class="hero-copy">
+    <text x="76" y="104" fill="#b9d9ee" font-family="ui-monospace,monospace" font-size="12" letter-spacing="3.6">MD MONIRUJJAMAN  /  FULL-STACK DEVELOPER</text>
+    <text x="72" y="205" fill="#effaff" font-family="Georgia,serif" font-size="68" font-weight="300">Hello, I'm</text>
+    <text x="72" y="277" fill="#7dd3fc" font-family="Georgia,serif" font-size="68" font-style="italic" font-weight="300">Monirujjaman.</text>
+    <text x="76" y="322" fill="#b9d9ee" font-family="ui-monospace,monospace" font-size="13">Building systems that make life effortless.</text>
+  </g>
   <line x1="76" y1="354" x2="700" y2="354" stroke="url(#line)" stroke-width="1.5"/>
-  <g transform="translate(76 388)">
+  <g class="hero-in" transform="translate(76 388)">
     <rect width="150" height="34" rx="17" fill="#07111f" stroke="#00abf0" stroke-opacity=".45"/>
     <text x="75" y="22" text-anchor="middle" fill="#effaff" font-family="ui-monospace,monospace" font-size="11">KHULNA, BANGLADESH</text>
     <rect x="164" width="142" height="34" rx="17" fill="#07111f" stroke="#00abf0" stroke-opacity=".45"/>
@@ -24,9 +43,17 @@
     <rect x="320" width="156" height="34" rx="17" fill="#07111f" stroke="#00abf0" stroke-opacity=".45"/>
     <text x="398" y="22" text-anchor="middle" fill="#effaff" font-family="ui-monospace,monospace" font-size="11">JS / TS / REACT</text>
   </g>
-  <circle cx="972" cy="224" r="158" fill="none" stroke="#00abf0" stroke-opacity=".24" stroke-width="1"/>
-  <circle cx="972" cy="224" r="148" fill="#050b14" stroke="#7dd3fc" stroke-opacity=".5" stroke-width="2"/>
-  <image href="profile-photo.png" x="824" y="76" width="296" height="296" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)"/>
-  <circle cx="1082" cy="334" r="12" fill="#00abf0" stroke="#050b14" stroke-width="5"/>
+  <g class="hero-ring">
+    <circle cx="972" cy="224" r="158" fill="none" stroke="#00abf0" stroke-opacity=".24" stroke-width="1"/>
+    <path d="M972 66 A158 158 0 0 1 1127 190" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 14"/>
+  </g>
+  <g class="hero-photo">
+    <circle cx="972" cy="224" r="148" fill="#050b14" stroke="#7dd3fc" stroke-opacity=".5" stroke-width="2"/>
+    <image href="profile-photo.png" x="824" y="76" width="296" height="296" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)"/>
+  </g>
+  <g class="hero-orbit">
+    <circle cx="972" cy="66" r="5" fill="#00abf0" class="hero-dot"/>
+  </g>
+  <circle cx="1082" cy="334" r="12" fill="#00abf0" stroke="#050b14" stroke-width="5" class="hero-dot"/>
   <path d="M1077 334l4 4 7-9" fill="none" stroke="#050b14" stroke-width="2"/>
 </svg>
