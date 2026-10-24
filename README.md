@@ -1,64 +1,93 @@
-<a href="https://sushmitadasari.github.io/Sushmitadasari/">
-  <img src="assets/sushmita-hero-portrait.svg" width="100%" alt="Sri Sushmita Dasari — AI/ML Engineer, Full-Stack Developer and Creative Technologist. Engineering intelligence. Designing experiences.">
-</a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=MD%20MONIRUJJAMAN&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20%7C%20%20Creative%20Builder%20%20%7C%20%20Problem%20Solver&descAlignY=58&descAlign=50&fontColor=ffffff" alt="MD Monirujjaman">
+
+<img src="assets/profile-photo.png" width="180" alt="Professional portrait of MD Monirujjaman">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Builder+%E2%9C%A6;%E2%9C%A6+Creative+UI+Engineer+%E2%9C%A6;%E2%9C%A6+Building+Useful+Digital+Experiences+%E2%9C%A6;%E2%9C%A6+Always+Learning+%26+Shipping+%E2%9C%A6" alt="Full-Stack Developer, MERN Stack Builder, Creative UI Engineer, Building Useful Digital Experiences, Always Learning and Shipping">
+
+<br><br>
+
+<a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-monirujjaman.pro.bd-9D8FFF?style=for-the-badge&labelColor=0f0c29&logoColor=ffffff&logo=googlechrome" alt="Portfolio website"></a>
+<a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-md--monirujjaman-9D8FFF?style=for-the-badge&labelColor=0f0c29&logoColor=ffffff&logo=github" alt="GitHub profile"></a>
+<a href="https://github.com/md-monirujjaman?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34-9D8FFF?style=for-the-badge&labelColor=0f0c29&logoColor=ffffff&logo=github" alt="34 public repositories"></a>
+
+</div>
+
+## ✦ About Me
+
+> **Building systems that make life effortless.**
+
+I'm **MD Monirujjaman**, a developer from **Khulna, Bangladesh**, currently working with **OrmiTech IT**. I enjoy turning ideas into polished, responsive products and exploring the full path from a thoughtful interface to a reliable backend.
+
+- Building practical full-stack web applications
+- Focused on clean UI, maintainable code, and useful user experiences
+- Learning continuously through real products and open-source projects
+- Portfolio: [monirujjaman.pro.bd](https://monirujjaman.pro.bd/)
+
+## ✦ What I Work With
 
 <p align="center">
-  <a href="https://sushmitadasari.github.io/Sushmitadasari/"><img src="https://img.shields.io/badge/Portfolio-sushmitadasari.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Portfolio website"></a>
-  <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/"><img src="https://img.shields.io/badge/LinkedIn-sushmita--dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
-  <a href="https://leetcode.com/u/sushmita_dasari/"><img src="https://img.shields.io/badge/LeetCode-sushmita__dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile sushmita_dasari"></a>
-  <a href="mailto:sushmitadasari17@gmail.com"><img src="https://img.shields.io/badge/Email-sushmitadasari17@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email sushmitadasari17@gmail.com"></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,python,c&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Git, GitHub, Python and C">
 </p>
-
-<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
-<img src="assets/about-intro.svg" width="100%" alt="About: AI/ML Engineer and Full-Stack Developer. B.Tech in AI and ML at Aditya Engineering College, CGPA 9.10. Full-Stack Development Trainee at Technical Hub, 2025 to 2026. Shipped PolicyGuard AI, a payment gateway, a multi-tenant SaaS platform and StarCloset. Primary language Java; ML in Python; drawn to system design, AWS and machine learning.">
-
-<img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Proof, on the record.">
-<img src="assets/achievement-motif-v2.svg" width="100%" alt="Flipkart GRiD 7.0 National Semi-Finalist; Myntra WeForShe HackerRamp 2026 Top 100 Team; CGPA 9.10; LeetCode 400+ problems with peak rating 1321; GeeksforGeeks 400+ problems with rating 1464; CodeChef 415+ problems; HackerRank 5 stars in C, Python and Java.">
-
-<img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
-
-<img src="assets/project-policyguard-v2.svg" width="100%" alt="PolicyGuard AI: LLM Q&A and key-information extraction for 10+ document types across web, extension, mobile and desktop. 500+ documents processed, 92% accuracy, 60% less manual review time. Python, NLP, LLM, REST API.">
-
-<a href="https://github.com/Sushmitadasari/Payment-gateway-system-Project"><img src="assets/project-payment-gateway-v2.svg" width="100%" alt="Payment Gateway System: UPI and card payments on a strict processing, success or failed state machine. 1,000+ transactions, 99.8% uptime, 3x throughput. Node.js, Express, PostgreSQL, React, Docker."></a>
-<p align="center">
-  <a href="https://github.com/Sushmitadasari/Payment-gateway-system-Project"><img src="https://img.shields.io/badge/Repository-Payment_Gateway-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Payment Gateway repository"></a>
-  <a href="https://www.youtube.com/watch?v=FUOZyQT5fNI"><img src="https://img.shields.io/badge/Watch-Architecture_walkthrough-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=youtube" alt="Payment Gateway architecture walkthrough video"></a>
-</p>
-
-<a href="https://github.com/Sushmitadasari/weforshe-starcloset"><img src="assets/project-starcloset-v2.svg" width="100%" alt="StarCloset, Myntra Bharat AI: team entry to Myntra WeForShe HackerRamp 2026, Top 100. A rules-first, explainable fashion recommender that understands Hinglish occasions. React 19, TypeScript, Go, PostgreSQL, Redis, optional Gemini."></a>
-<p align="center">
-  <a href="https://myntra-ai.vercel.app"><img src="https://img.shields.io/badge/Live_demo-myntra--ai.vercel.app-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="StarCloset live demo"></a>
-  <a href="https://github.com/Sushmitadasari/weforshe-starcloset"><img src="https://img.shields.io/badge/Repository-StarCloset-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="StarCloset repository"></a>
-</p>
-
-<a href="https://github.com/Sushmitadasari/Multi-Tenant-SaaS-Platform"><img src="assets/project-multitenant-saas-v2.svg" width="100%" alt="Multi-Tenant SaaS Platform: tenant-scoped middleware and four-level JWT/RBAC. 50+ concurrent tenants, zero unauthorised-access incidents, setup under 2 minutes. Node.js, React, PostgreSQL, Docker Compose."></a>
-<p align="center">
-  <a href="https://github.com/Sushmitadasari/Multi-Tenant-SaaS-Platform"><img src="https://img.shields.io/badge/Repository-Multi--Tenant_SaaS-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Multi-Tenant SaaS repository"></a>
-</p>
-
-<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
-<img src="assets/tech-constellation-v2.svg" width="100%" alt="Tech stack. Languages: Java (primary), Python, C, C++. AI/ML: LLMs, NLP, Machine Learning, Deep Learning. Frontend: React, JavaScript, HTML, CSS. Backend: Node.js, Express, REST APIs, Microservices, JWT. Data and infrastructure: PostgreSQL, MongoDB, MySQL, Docker, AWS. Tools: Git, GitHub, Postman.">
-
-<img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
-<img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating my real public GitHub contributions over the past year, with totals, active days, longest streak and busiest day. Re-rendered daily.">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushmitadasari&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for Sushmitadasari: stars, commits, pull requests and issues">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20TypeScript-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=9D8FFF" alt="Frontend technologies">
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20REST-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=9D8FFF" alt="Backend technologies">
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=9D8FFF" alt="Database technologies">
 </p>
 
-<img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Sixteen credentials, verified.">
-<a href="https://sushmitadasari.github.io/Sushmitadasari/#experience"><img src="assets/certifications.svg" width="100%" alt="Certifications: AWS Certified AI Practitioner and AWS Academy Cloud Foundations; NPTEL DBMS, Fundamentals of AI and Deep Learning; MongoDB Associate Developer; Oracle Java Foundations and Database Foundations; Cisco HTML, CSS, JavaScript 1 and 2, Python 1; GitHub Foundations; Pearson IT Specialist HTML and CSS; Udemy Microsoft Azure Hands-On."></a>
+## ✦ Featured Projects
 
-<img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth explaining.">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">OrmiTech Web</h3>
+      <p align="center">A modern web experience built for OrmiTech IT.</p>
+      <p align="center"><a href="https://github.com/md-monirujjaman/ormitech-web"><img src="https://img.shields.io/badge/View_repository-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View OrmiTech Web repository"></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">OrmiTech Admin</h3>
+      <p align="center">A TypeScript-based administration interface for managing digital products.</p>
+      <p align="center"><a href="https://github.com/md-monirujjaman/ormitech-admin"><img src="https://img.shields.io/badge/View_repository-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View OrmiTech Admin repository"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SkillSwap</h3>
+      <p align="center">A client and server project for connecting people through shared skills.</p>
+      <p align="center"><a href="https://github.com/md-monirujjaman/skillswap-client"><img src="https://img.shields.io/badge/Client-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View SkillSwap client repository"></a> <a href="https://github.com/md-monirujjaman/skillswap-server"><img src="https://img.shields.io/badge/Server-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View SkillSwap server repository"></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">StudyNook</h3>
+      <p align="center">A study-focused web project with a JavaScript client and server.</p>
+      <p align="center"><a href="https://github.com/md-monirujjaman/A9-studyNook-"><img src="https://img.shields.io/badge/View_repository-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View StudyNook repository"></a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="mailto:sushmitadasari17@gmail.com"><img src="https://img.shields.io/badge/Email-sushmitadasari17@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email sushmitadasari17@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/"><img src="https://img.shields.io/badge/LinkedIn-sushmita--dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
-  <a href="https://leetcode.com/u/sushmita_dasari/"><img src="https://img.shields.io/badge/LeetCode-sushmita__dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile sushmita_dasari"></a>
-  <a href="https://sushmitadasari.github.io/Sushmitadasari/"><img src="https://img.shields.io/badge/Portfolio-sushmitadasari.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Portfolio website"></a>
-  <a href="https://videoportfolio-kohl.vercel.app/"><img src="https://img.shields.io/badge/Video_portfolio-vercel.app-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="Video portfolio"></a>
-</p>
+## ✦ GitHub at a Glance
 
-<a href="https://sushmitadasari.github.io/Sushmitadasari/">
-  <img src="assets/footer-signature-v2.svg" width="100%" alt="Sushmita — Building systems that can explain themselves.">
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-monirujjaman&show_icons=true&hide_border=true&border_radius=16&bg_color=0f0c29&title_color=9D8FFF&text_color=E8E4FF&icon_color=9D8FFF&custom_title=MD%20Monirujjaman%27s%20GitHub%20Stats" height="170" alt="GitHub statistics for MD Monirujjaman">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-monirujjaman&layout=compact&hide_border=true&border_radius=16&bg_color=0f0c29&title_color=9D8FFF&text_color=E8E4FF&icon_color=9D8FFF" height="170" alt="Most used programming languages">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=md-monirujjaman&theme=midnight-purple&hide_border=true&background=0F0C29&ring=9D8FFF&fire=9D8FFF&currStreakLabel=E8E4FF" alt="GitHub contribution streak">
+</div>
+
+## ✦ Let's Connect
+
+<div align="center">
+  <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Website-9D8FFF?style=for-the-badge&labelColor=0f0c29&logo=googlechrome&logoColor=ffffff" alt="Visit portfolio website"></a>
+  <a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-9D8FFF?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="Visit GitHub profile"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Purple gradient footer">
+</div>
