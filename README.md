@@ -1,93 +1,62 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=MD%20MONIRUJJAMAN&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20%7C%20%20Creative%20Builder%20%20%7C%20%20Problem%20Solver&descAlignY=58&descAlign=50&fontColor=ffffff" alt="MD Monirujjaman">
-
-<img src="assets/profile-photo.png" width="180" alt="Professional portrait of MD Monirujjaman">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Builder+%E2%9C%A6;%E2%9C%A6+Creative+UI+Engineer+%E2%9C%A6;%E2%9C%A6+Building+Useful+Digital+Experiences+%E2%9C%A6;%E2%9C%A6+Always+Learning+%26+Shipping+%E2%9C%A6" alt="Full-Stack Developer, MERN Stack Builder, Creative UI Engineer, Building Useful Digital Experiences, Always Learning and Shipping">
-
-<br><br>
-
-<a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-monirujjaman.pro.bd-9D8FFF?style=for-the-badge&labelColor=0f0c29&logoColor=ffffff&logo=googlechrome" alt="Portfolio website"></a>
-<a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-md--monirujjaman-9D8FFF?style=for-the-badge&labelColor=0f0c29&logoColor=ffffff&logo=github" alt="GitHub profile"></a>
-<a href="https://github.com/md-monirujjaman?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34-9D8FFF?style=for-the-badge&labelColor=0f0c29&logoColor=ffffff&logo=github" alt="34 public repositories"></a>
-
-</div>
-
-## ✦ About Me
-
-> **Building systems that make life effortless.**
-
-I'm **MD Monirujjaman**, a developer from **Khulna, Bangladesh**, currently working with **OrmiTech IT**. I enjoy turning ideas into polished, responsive products and exploring the full path from a thoughtful interface to a reliable backend.
-
-- Building practical full-stack web applications
-- Focused on clean UI, maintainable code, and useful user experiences
-- Learning continuously through real products and open-source projects
-- Portfolio: [monirujjaman.pro.bd](https://monirujjaman.pro.bd/)
-
-## ✦ What I Work With
+<a href="https://monirujjaman.pro.bd/">
+  <img src="assets/md-monirujjaman-hero.svg" width="100%" alt="MD Monirujjaman — Full-Stack Developer and Creative Technologist. Building systems that make life effortless.">
+</a>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,python,c&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Git, GitHub, Python and C">
+  <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Portfolio-monirujjaman.pro.bd-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=googlechrome" alt="Portfolio website"></a>
+  <a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-md--monirujjaman-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="GitHub profile"></a>
+  <a href="https://github.com/md-monirujjaman?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="Public repositories"></a>
 </p>
+
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Monirujjaman.">
+<img src="assets/about-intro.svg" width="100%" alt="About MD Monirujjaman: Full-Stack Developer from Khulna, Bangladesh, working with OrmiTech IT and building practical web applications with modern JavaScript and TypeScript technologies.">
+
+<img src="assets/title-recognition.svg" width="100%" alt="02 Highlights — Built in public.">
+<img src="assets/achievement-motif-v2.svg" width="100%" alt="Highlights: 34 public repositories, OrmiTech IT projects, SkillSwap, StudyNook, responsive interfaces and full-stack applications.">
+
+<img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
+
+<a href="https://github.com/md-monirujjaman/ormitech-web"><img src="assets/project-ormitech-web.svg" width="100%" alt="OrmiTech Web: a modern web project built with JavaScript and frontend technologies."></a>
+<p align="center">
+  <a href="https://github.com/md-monirujjaman/ormitech-web"><img src="https://img.shields.io/badge/Repository-OrmiTech_Web-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="OrmiTech Web repository"></a>
+</p>
+
+<a href="https://github.com/md-monirujjaman/ormitech-admin"><img src="assets/project-ormitech-admin.svg" width="100%" alt="OrmiTech Admin: a TypeScript administration interface for OrmiTech IT."></a>
+<p align="center">
+  <a href="https://github.com/md-monirujjaman/ormitech-admin"><img src="https://img.shields.io/badge/Repository-OrmiTech_Admin-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="OrmiTech Admin repository"></a>
+</p>
+
+<a href="https://github.com/md-monirujjaman/skillswap-client"><img src="assets/project-skillswap.svg" width="100%" alt="SkillSwap: a client application for connecting people through shared skills."></a>
+<p align="center">
+  <a href="https://github.com/md-monirujjaman/skillswap-client"><img src="https://img.shields.io/badge/Client-SkillSwap-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="SkillSwap client repository"></a>
+  <a href="https://github.com/md-monirujjaman/skillswap-server"><img src="https://img.shields.io/badge/Server-SkillSwap-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="SkillSwap server repository"></a>
+</p>
+
+<a href="https://github.com/md-monirujjaman/A9-studyNook-"><img src="assets/project-studynook.svg" width="100%" alt="StudyNook: a JavaScript study-focused web project."></a>
+<p align="center">
+  <a href="https://github.com/md-monirujjaman/A9-studyNook-"><img src="https://img.shields.io/badge/Repository-StudyNook-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="StudyNook repository"></a>
+</p>
+
+<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
+<img src="assets/tech-constellation-v2.svg" width="100%" alt="Tech stack: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, GitHub, Python and C.">
+
+<img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
+<img src="assets/contribution-snake.svg" width="100%" alt="Animated contribution activity for md-monirujjaman.">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20TypeScript-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=9D8FFF" alt="Frontend technologies">
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20REST-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=9D8FFF" alt="Backend technologies">
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=9D8FFF" alt="Database technologies">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-monirujjaman&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=0f0c29&title_color=9D8FFF&text_color=C4C0D8&icon_color=9D8FFF&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for md-monirujjaman">
 </p>
 
-## ✦ Featured Projects
+<img src="assets/title-certifications.svg" width="100%" alt="06 Learning — Always improving.">
+<a href="https://github.com/md-monirujjaman"><img src="assets/certifications.svg" width="100%" alt="Learning and technology areas: TypeScript, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Python, C, Git and GitHub."></a>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">OrmiTech Web</h3>
-      <p align="center">A modern web experience built for OrmiTech IT.</p>
-      <p align="center"><a href="https://github.com/md-monirujjaman/ormitech-web"><img src="https://img.shields.io/badge/View_repository-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View OrmiTech Web repository"></a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">OrmiTech Admin</h3>
-      <p align="center">A TypeScript-based administration interface for managing digital products.</p>
-      <p align="center"><a href="https://github.com/md-monirujjaman/ormitech-admin"><img src="https://img.shields.io/badge/View_repository-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View OrmiTech Admin repository"></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">SkillSwap</h3>
-      <p align="center">A client and server project for connecting people through shared skills.</p>
-      <p align="center"><a href="https://github.com/md-monirujjaman/skillswap-client"><img src="https://img.shields.io/badge/Client-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View SkillSwap client repository"></a> <a href="https://github.com/md-monirujjaman/skillswap-server"><img src="https://img.shields.io/badge/Server-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View SkillSwap server repository"></a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">StudyNook</h3>
-      <p align="center">A study-focused web project with a JavaScript client and server.</p>
-      <p align="center"><a href="https://github.com/md-monirujjaman/A9-studyNook-"><img src="https://img.shields.io/badge/View_repository-302B63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="View StudyNook repository"></a></p>
-    </td>
-  </tr>
-</table>
+<img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something worth explaining.">
 
-## ✦ GitHub at a Glance
+<p align="center">
+  <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Website-monirujjaman.pro.bd-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=googlechrome" alt="Portfolio website"></a>
+  <a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-md--monirujjaman-302B63?style=for-the-badge&labelColor=0f0c29&logoColor=F5F3FF&logo=github" alt="GitHub profile"></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-monirujjaman&show_icons=true&hide_border=true&border_radius=16&bg_color=0f0c29&title_color=9D8FFF&text_color=E8E4FF&icon_color=9D8FFF&custom_title=MD%20Monirujjaman%27s%20GitHub%20Stats" height="170" alt="GitHub statistics for MD Monirujjaman">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-monirujjaman&layout=compact&hide_border=true&border_radius=16&bg_color=0f0c29&title_color=9D8FFF&text_color=E8E4FF&icon_color=9D8FFF" height="170" alt="Most used programming languages">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=md-monirujjaman&theme=midnight-purple&hide_border=true&background=0F0C29&ring=9D8FFF&fire=9D8FFF&currStreakLabel=E8E4FF" alt="GitHub contribution streak">
-</div>
-
-## ✦ Let's Connect
-
-<div align="center">
-  <a href="https://monirujjaman.pro.bd/"><img src="https://img.shields.io/badge/Website-9D8FFF?style=for-the-badge&labelColor=0f0c29&logo=googlechrome&logoColor=ffffff" alt="Visit portfolio website"></a>
-  <a href="https://github.com/md-monirujjaman"><img src="https://img.shields.io/badge/GitHub-9D8FFF?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=ffffff" alt="Visit GitHub profile"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Purple gradient footer">
-</div>
+<a href="https://monirujjaman.pro.bd/">
+  <img src="assets/footer-signature-v2.svg" width="100%" alt="MD Monirujjaman — Building systems that make life effortless.">
+</a>
