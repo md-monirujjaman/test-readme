@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Profile â€” MD Monirujjaman</title>
+  <meta name="description" content="Full-Stack Engineer profile of MD Monirujjaman, a MERN specialist.">
+  <meta name="theme-color" content="#050B16">
+  <link rel="canonical" href="https://monirujjaman.me/resume.html">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..600&family=Geist:wght@300..700&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <style>
+    @layer sections {
+      body { padding-block: var(--space-xl) var(--space-3xl); }
+      body::after { display: none; }
+      .bar {
+        display: flex; flex-wrap: wrap; gap: var(--space-s); justify-content: space-between; align-items: center;
+        margin-bottom: var(--space-xl);
+      }
+      .bar__actions { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+      .sheet {
+        padding: clamp(1.25rem, 4vw, 3.5rem);
+        border: 1px solid var(--line);
+        border-radius: var(--radius-l);
+        background: linear-gradient(180deg, var(--ink-900), var(--ink-950));
+        box-shadow: var(--shadow-2);
+      }
+      .r-head { display: grid; gap: 0.6rem; padding-bottom: var(--space-l); border-bottom: 1px solid var(--line-strong); }
+      .r-head h1 { font-family: var(--font-display); font-size: var(--step-4); font-weight: 300; letter-spacing: -0.035em; }
+      .r-head h1 em { color: var(--rose-300); }
+      .r-head .role { color: var(--text-muted); }
+      .r-links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; list-style: none; padding: 0; font-size: var(--step--1); }
+      .r-links a { color: var(--rose-200); }
+      .r-sec { display: grid; grid-template-columns: 11rem 1fr; gap: var(--space-l); padding-block: var(--space-l); border-bottom: 1px solid var(--line); }
+      .r-sec:last-child { border-bottom: 0; }
+      .r-sec > h2 { font-family: var(--font-mono); font-size: var(--step--2); letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); padding-top: 0.3rem; }
+      .r-item + .r-item { margin-top: var(--space-m); }
+      .r-item__top { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.2rem 1rem; }
+      .r-item h3 { font-size: var(--step-0); font-weight: 600; line-height: 1.4; }
+      .r-item .meta { font-family: var(--font-mono); font-size: var(--step--2); color: var(--text-muted); white-space: nowrap; }
+      .r-item .sub { color: var(--rose-200); font-size: var(--step--1); }
+      .r-item ul, .r-list { padding-left: 1.1rem; margin-top: 0.4rem; display: grid; gap: 0.3rem; color: var(--text-muted); font-size: var(--step--1); }
+      .r-item li::marker, .r-list li::marker { color: var(--wine-600); }
+      .r-skills { display: grid; gap: 0.35rem; font-size: var(--step--1); color: var(--text-muted); }
+      .r-skills b { color: var(--ivory); font-weight: 500; }
+      .r-note { margin-top: var(--space-l); font-size: var(--step--2); color: var(--faint); font-family: var(--font-mono); }
+      @media (max-width: 680px) { .r-sec { grid-template-columns: 1fr; gap: 0.6rem; } }
+
+      @media print {
+        @page { margin: 14mm 14mm; }
+        :root { --text-muted: #333; --rose-200: #1456C0; --accent: #1456C0; --ivory: #111; --line: #ddd; --line-strong: #bbb; --faint: #666; }
+        body { background: #fff; color: #111; padding: 0; font-size: 10.5pt; }
+        .bar, .r-note { display: none; }
+        .sheet { border: 0; padding: 0; box-shadow: none; background: none; }
+        .r-sec { break-inside: avoid; padding-block: 0.6rem; }
+        .r-head h1 { font-size: 24pt; }
+        a { color: inherit !important; }
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="container" style="max-width: 920px">
+    <div class="bar">
+      <a class="btn btn--ghost btn--small" href="./">â† Back to portfolio</a>
+      <div class="bar__actions">
+        <button class="btn btn--primary btn--small" type="button" onclick="window.print()">Save as PDF / Print</button>
+      </div>
+    </div>
+
+    <article class="sheet">
+      <header class="r-head">
+        <h1>MD <em>Monirujjaman</em></h1>
+        <p class="role">Full-Stack Engineer · MERN Specialist</p>
+        <ul class="r-links">
+          <li><a class="link-u" href="https://github.com/md-monirujjaman?tab=repositories">Project repositories</a></li>
+          <li><a class="link-u" href="https://github.com/md-monirujjaman">github.com/md-monirujjaman</a></li>
+          <li><a class="link-u" href="https://monirujjaman.me/">monirujjaman.me</a></li>
+        </ul>
+      </header>
+
+      <section class="r-sec"><h2>Focus</h2><div><div class="r-item"><div class="r-item__top"><h3>Full-Stack Web Development</h3></div><p class="sub">React Â· Node.js Â· Express Â· MongoDB</p></div><div class="r-item"><div class="r-item__top"><h3>Product Engineering</h3></div><p class="sub">Responsive interfaces Â· Scalable APIs Â· Performance</p></div></div></section>
+
+      <section class="r-sec"><h2>Skills</h2><div class="r-skills"><p><b>Frontend:</b> React, JavaScript, TypeScript, HTML, CSS</p><p><b>Backend:</b> Node.js, Express.js, REST APIs</p><p><b>Database:</b> MongoDB</p><p><b>Tools:</b> Git, GitHub, Postman</p><p><b>Focus:</b> Responsive UI, product performance, maintainable systems</p></div></section>
+
+      <section class="r-sec"><h2>Approach</h2><div class="r-item"><ul><li>Understand the product goal and the people it serves.</li><li>Build responsive interfaces with a clear visual hierarchy.</li><li>Connect frontend flows to maintainable APIs and application data.</li><li>Refine details for performance, accessibility and reliability.</li></ul></div></section>
+
+      <section class="r-sec"><h2>Work</h2><div class="r-item"><p>Explore current projects and repositories on <a class="link-u" href="https://github.com/md-monirujjaman">GitHub</a>.</p><p class="sub">Product concepts: policy analysis, payment experiences, commerce discovery and multi-workspace SaaS.</p></div></section>
+
+
+
+
+    </article>
+    <p class="r-note">Use “Save as PDF” to download a copy.</p>
+  </main>
+</body>
+</html>
