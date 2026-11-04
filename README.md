@@ -9,10 +9,4 @@ Full-stack engineer and MERN specialist building fast, thoughtful web products.
 
 React interfaces, Node.js and Express APIs, MongoDB, responsive design, product performance, and maintainable systems.
 
-## Local preview
 
-```sh
-npm start
-```
-
-Open the local address printed by the server.
