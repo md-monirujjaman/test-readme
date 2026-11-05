@@ -2,9 +2,15 @@ Have you ever wished you had a time machine for your code? Well, Git is exactly 
 
 If you aren't familiar with Git, it's a version control system that helps you keep track of changes to your code. You can save a snapshot of your project at a particular point in time, then make experimental changes without risking your work, since you can always go back to your snapshot.
 
+
+
 GitHub itself is a platform built around Git, letting you save your Git projects to the cloud and work on them with other developers.
 
+
+
 While Git can be complicated, it's a powerful and necessary tool for any developer. This article will give you all the tools you need to use Git in your day-to-day workflow.
+
+
 
 Prerequisites
 To follow this tutorial, you need to install Visual Studio Code.
