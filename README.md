@@ -52,16 +52,16 @@ Repositories are automatically created with a main branch, which you can think o
 
 When you create a new branch, you're creating a safe space to work on a new feature without affecting the primary version. You and your collaborators can use different branches to work on multiple features at the same time.
 
+
 Let's create a branch to work on changes in our repository:
+
 
 In GitHub Desktop, select the  Current Branch dropdown menu, then click New Branch.
 Name your new branch readme-updates, then click Create Branch.
 Saving snapshots of your project
 To save your progress to your branch, you make a commit. A commit is a snapshot you take of your project at a particular point in time. You've actually already made your first commit: when you initialized your project with a README, GitHub Desktop automatically created an initial commit to add the README.md file.
 
-Whenever you complete a chunk of work that you want to save, you should make a commit. After you do, you can always go back to that point in time, no matter how many changes you make in the future.
 
-In GitHub Desktop, click Open in Visual Studio Code.
 
 In VS Code, paste the following text into README.md and save your changes:
 
